@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="thesis.data.repositories.NamedRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/NamedRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="112" width="291" x="362" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="thesis.data.repositories.LearnerRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/LearnerRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="184" width="286" x="1674" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="thesis.data.repositories.TagRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/TagRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="184" width="235" x="225" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="thesis.data.repositories.GenericRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/GenericRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="220" width="153" x="693" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="thesis.data.repositories.TermRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/TermRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="241" x="500" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="thesis.data.repositories.QuestionLearnerDetailsRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/QuestionLearnerDetailsRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="112" width="279" x="693" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="thesis.data.repositories.QuestionTermFrequencyRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/QuestionTermFrequencyRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="622" x="1012" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="thesis.data.repositories.QuestionRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositories/QuestionRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="112" width="281" x="41" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="thesis.data.repositoryinterfaces.ILearnerRepository" project="thesis-core" 
+    file="/thesis-core/src/thesis/data/repositoryinterfaces/ILearnerRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="228" x="1732" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="interfaces.ILearnerRepository" project="XMLC" 
+    file="/XMLC/XMLC/src/interfaces/ILearnerRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="264" x="1428" y="521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

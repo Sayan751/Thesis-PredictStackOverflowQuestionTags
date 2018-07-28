@@ -1,0 +1,33 @@
+<template bindable="learnerDetails">
+
+  <require from="./learner-config-display.html"></require>
+
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse1">${learnerDetails.learnerClass|lname} (Macro F-measure: ${learnerDetails.macroFmeasure|fmeasure})</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse">
+        <div class="panel-body">
+          <ul class="list-unstyled">
+            <li><strong>Id:</strong>${learnerDetails.id}</li>
+            <li><strong>Created On:</strong>${learnerDetails.createdOn|ddf}</li>
+            <li>
+              <strong>Average prequential f-measures:</strong> ${learnerDetails.avgPrequentialFmeasures.general|fmeasure},
+              ${learnerDetails.avgPrequentialFmeasures.general|fmeasure} (topk)
+            </li>
+            <li>
+              <strong>Average post-training f-measures:</strong> ${learnerDetails.avgPostTrainingFmeasures.general|fmeasure},
+              ${learnerDetails.avgPostTrainingFmeasures.general|fmeasure} (topk)
+            </li>
+          </ul>
+
+          <learner-config-display learner-class.bind="learnerDetails.learnerClass" learner-config.bind="learnerDetails.learnerConfig"></learner-config-display>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</template>

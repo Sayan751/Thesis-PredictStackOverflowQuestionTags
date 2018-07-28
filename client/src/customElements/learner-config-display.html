@@ -1,0 +1,23 @@
+<template bindable="learnerClass,learnerConfig">
+
+  <require from="./adaptiveplt-config-display.html"></require>
+  <require from="./boosted-ensemble-config-display.html"></require>
+  <require from="./adaptive-ensemble-config-display.html"></require>
+
+  <div>
+    <strong>Configuration:</strong>
+    <div class="well well-sm">
+      <ul class="list-unstyled">
+        <adaptiveplt-config-display if.bind="learnerClass == 'AdaptivePLT'" config.bind="learnerConfig">
+        </adaptiveplt-config-display>
+
+        <boosted-ensemble-config-display if.bind="learnerClass == 'PLTEnsembleBoosted' || learnerClass == 'PLTEnsembleBoostedWithThreshold'"
+          config.bind="learnerConfig"></boosted-ensemble-config-display>
+
+        <adaptive-ensemble-config-display if.bind="learnerClass == 'PLTAdaptiveEnsemble'" config.bind="learnerConfig">
+        </adaptive-ensemble-config-display>
+        <ul>
+    </div>
+
+  </div>
+</template>

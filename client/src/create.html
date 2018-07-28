@@ -1,0 +1,47 @@
+<template>
+  <require from="./customElements/adaptiveplt-config-control"></require>
+  <require from="./customElements/adaptive-ensemble-config-control"></require>
+  <require from="./customElements/boosted-ensemble-config-control"></require>
+  <require from="./customElements/boosted-ensemble-withthreshold-config-control"></require>
+
+  <div class="overlay" if.bind="isProcessing">
+    <div class="overlay-content">
+      <i class="fa fa-spinner fa-spin"></i>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2 col-lg-offset-2">
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Create new learner</h3>
+        </div>
+        <div class="panel-body">
+          <form class="form-horizontal" role="form" submit.delegate="createLearner()">
+
+            <div class="form-group">
+              <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Learner type</label>
+              <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                <label class="radio-inline" repeat.for="learnerType of learnerTypes">
+                  <input type="radio" name="ltype" value="${learnerType}" checked.bind="selectedLearnerType"> ${learnerType|lname}
+                </label>
+              </div>
+            </div>
+
+            <adaptiveplt-config-control if.bind="selectedLearnerType === 'AdaptivePLT'" config.two-way="learnerConfig"></adaptiveplt-config-control>
+            <boosted-ensemble-config-control if.bind="selectedLearnerType === 'PLTEnsembleBoosted'" config.two-way="learnerConfig"></boosted-ensemble-config-control>
+            <boosted-ensemble-withthreshold-config-control if.bind="selectedLearnerType === 'PLTEnsembleBoostedWithThreshold'" config.two-way="learnerConfig"></boosted-ensemble-withthreshold-config-control>
+            <adaptive-ensemble-config-control if.bind="selectedLearnerType === 'PLTAdaptiveEnsemble'" config.two-way="learnerConfig"></adaptive-ensemble-config-control>
+
+
+            <div class="col-xs-offset-2 col-sm-offset-2 col-md-offset-2 col-lg-offset-2" if.bind="selectedLearnerType">
+              <button type="submit" class="btn btn-primary">Create</button><small class="text-danger">${errorMessage}</small>
+            </div>
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</template>

@@ -1,0 +1,6340 @@
+{
+  "highFreqLabels": [
+    {
+      "name": "c#",
+      "count": 123603
+    },
+    {
+      "name": "java",
+      "count": 78442
+    },
+    {
+      "name": "php",
+      "count": 70245
+    },
+    {
+      "name": "javascript",
+      "count": 60924
+    },
+    {
+      "name": ".net",
+      "count": 58029
+    },
+    {
+      "name": "asp.net",
+      "count": 51815
+    },
+    {
+      "name": "jquery",
+      "count": 51523
+    },
+    {
+      "name": "iphone",
+      "count": 48810
+    },
+    {
+      "name": "c++",
+      "count": 48441
+    },
+    {
+      "name": "python",
+      "count": 40149
+    },
+    {
+      "name": "sql",
+      "count": 31888
+    },
+    {
+      "name": "mysql",
+      "count": 30249
+    },
+    {
+      "name": "html",
+      "count": 29789
+    },
+    {
+      "name": "android",
+      "count": 26249
+    },
+    {
+      "name": "ruby-on-rails",
+      "count": 23793
+    },
+    {
+      "name": "objective-c",
+      "count": 23200
+    },
+    {
+      "name": "c",
+      "count": 22114
+    },
+    {
+      "name": "sql-server",
+      "count": 21965
+    },
+    {
+      "name": "css",
+      "count": 21782
+    },
+    {
+      "name": "wpf",
+      "count": 19323
+    },
+    {
+      "name": "asp.net-mvc",
+      "count": 18946
+    },
+    {
+      "name": "ruby",
+      "count": 15486
+    },
+    {
+      "name": "xml",
+      "count": 15162
+    },
+    {
+      "name": "windows",
+      "count": 14383
+    },
+    {
+      "name": "database",
+      "count": 13494
+    },
+    {
+      "name": "regex",
+      "count": 13263
+    },
+    {
+      "name": "vb.net",
+      "count": 12940
+    },
+    {
+      "name": "ajax",
+      "count": 12337
+    },
+    {
+      "name": "django",
+      "count": 11999
+    },
+    {
+      "name": "visual-studio",
+      "count": 11418
+    },
+    {
+      "name": "winforms",
+      "count": 11203
+    },
+    {
+      "name": "linux",
+      "count": 10612
+    },
+    {
+      "name": "performance",
+      "count": 9821
+    },
+    {
+      "name": "multithreading",
+      "count": 9574
+    },
+    {
+      "name": "string",
+      "count": 9033
+    },
+    {
+      "name": "arrays",
+      "count": 8971
+    },
+    {
+      "name": "silverlight",
+      "count": 8922
+    },
+    {
+      "name": "linq",
+      "count": 8751
+    },
+    {
+      "name": "visual-studio-2008",
+      "count": 8659
+    },
+    {
+      "name": "flex",
+      "count": 8652
+    },
+    {
+      "name": "wcf",
+      "count": 8533
+    },
+    {
+      "name": "flash",
+      "count": 8440
+    },
+    {
+      "name": "cocoa",
+      "count": 7937
+    },
+    {
+      "name": "cocoa-touch",
+      "count": 7893
+    },
+    {
+      "name": "eclipse",
+      "count": 7886
+    },
+    {
+      "name": "actionscript-3",
+      "count": 7868
+    },
+    {
+      "name": "perl",
+      "count": 7824
+    },
+    {
+      "name": "algorithm",
+      "count": 7789
+    },
+    {
+      "name": "web-services",
+      "count": 7713
+    },
+    {
+      "name": "sql-server-2005",
+      "count": 7434
+    }
+  ],
+  "lowFreqLabels": [
+    {
+      "name": "git-flow",
+      "count": 1
+    },
+    {
+      "name": "offline-web-app",
+      "count": 1
+    },
+    {
+      "name": "internet-explorer-5",
+      "count": 1
+    },
+    {
+      "name": "pattern-synonyms",
+      "count": 1
+    },
+    {
+      "name": "shtool",
+      "count": 1
+    },
+    {
+      "name": "jflex-maven-plugin",
+      "count": 1
+    },
+    {
+      "name": "agatha-rrsl",
+      "count": 1
+    },
+    {
+      "name": "ambiguous-grammar",
+      "count": 1
+    },
+    {
+      "name": "showplan.out",
+      "count": 1
+    },
+    {
+      "name": "sybase-bcp",
+      "count": 1
+    },
+    {
+      "name": "rsqlite",
+      "count": 1
+    },
+    {
+      "name": "dnsbl",
+      "count": 1
+    },
+    {
+      "name": "yandex-api",
+      "count": 1
+    },
+    {
+      "name": "wxerlang",
+      "count": 1
+    },
+    {
+      "name": "durable-services",
+      "count": 1
+    },
+    {
+      "name": "uidatepickermodetime",
+      "count": 1
+    },
+    {
+      "name": "audiotrack",
+      "count": 1
+    },
+    {
+      "name": "object-initializer",
+      "count": 1
+    },
+    {
+      "name": "twitter-streaming-api",
+      "count": 1
+    },
+    {
+      "name": "prolog-dif",
+      "count": 1
+    },
+    {
+      "name": "netapp",
+      "count": 1
+    },
+    {
+      "name": "smartfoxserver",
+      "count": 1
+    },
+    {
+      "name": "multisite",
+      "count": 1
+    },
+    {
+      "name": "safe-bool-idiom",
+      "count": 1
+    },
+    {
+      "name": "induction",
+      "count": 1
+    },
+    {
+      "name": "lis",
+      "count": 1
+    },
+    {
+      "name": "duplicity",
+      "count": 1
+    },
+    {
+      "name": "feature-envy",
+      "count": 1
+    },
+    {
+      "name": "mfcc",
+      "count": 1
+    },
+    {
+      "name": "soa-governance",
+      "count": 1
+    },
+    {
+      "name": "data-segment",
+      "count": 1
+    },
+    {
+      "name": "tatukgis",
+      "count": 1
+    },
+    {
+      "name": "scribble",
+      "count": 1
+    },
+    {
+      "name": "aec",
+      "count": 1
+    },
+    {
+      "name": "boot-animation",
+      "count": 1
+    },
+    {
+      "name": "pylot",
+      "count": 1
+    },
+    {
+      "name": "iisvdir",
+      "count": 1
+    },
+    {
+      "name": "editmodel",
+      "count": 1
+    },
+    {
+      "name": "sql-cte",
+      "count": 1
+    },
+    {
+      "name": "gams-math",
+      "count": 1
+    },
+    {
+      "name": "diem",
+      "count": 1
+    },
+    {
+      "name": "ocaml-toplevel",
+      "count": 1
+    },
+    {
+      "name": "elinks",
+      "count": 1
+    },
+    {
+      "name": "avro",
+      "count": 1
+    },
+    {
+      "name": "hp-idol-ondemand",
+      "count": 1
+    },
+    {
+      "name": "boost-ptr-container",
+      "count": 1
+    },
+    {
+      "name": "extrinsic-parameters",
+      "count": 1
+    },
+    {
+      "name": "swift-extensions",
+      "count": 1
+    },
+    {
+      "name": "lettuce",
+      "count": 1
+    },
+    {
+      "name": "django-custom-manager",
+      "count": 1
+    }
+  ],
+  "highHighCor": [
+    {
+      "tag1": "java",
+      "tag2": "c#",
+      "count": 3140
+    },
+    {
+      "tag1": "php",
+      "tag2": "c#",
+      "count": 918
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "c#",
+      "count": 4212
+    },
+    {
+      "tag1": ".net",
+      "tag2": "c#",
+      "count": 70797
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "c#",
+      "count": 292
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "c#",
+      "count": 1258
+    },
+    {
+      "tag1": "html",
+      "tag2": "c#",
+      "count": 2449
+    },
+    {
+      "tag1": "c",
+      "tag2": "c#",
+      "count": 814
+    },
+    {
+      "tag1": "css",
+      "tag2": "c#",
+      "count": 623
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "c#",
+      "count": 305
+    },
+    {
+      "tag1": "xml",
+      "tag2": "c#",
+      "count": 6855
+    },
+    {
+      "tag1": "database",
+      "tag2": "c#",
+      "count": 2668
+    },
+    {
+      "tag1": "regex",
+      "tag2": "c#",
+      "count": 4180
+    },
+    {
+      "tag1": "performance",
+      "tag2": "c#",
+      "count": 3024
+    },
+    {
+      "tag1": "linq",
+      "tag2": "c#",
+      "count": 12212
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "c#",
+      "count": 5982
+    },
+    {
+      "tag1": "flash",
+      "tag2": "c#",
+      "count": 350
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "c#",
+      "count": 46
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "c#",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "c#",
+      "count": 147
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "c#",
+      "count": 1500
+    },
+    {
+      "tag1": ".net",
+      "tag2": "java",
+      "count": 1830
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "java",
+      "count": 2016
+    },
+    {
+      "tag1": "xml",
+      "tag2": "java",
+      "count": 3570
+    },
+    {
+      "tag1": "performance",
+      "tag2": "java",
+      "count": 2120
+    },
+    {
+      "tag1": "java",
+      "tag2": "php",
+      "count": 1452
+    },
+    {
+      "tag1": ".net",
+      "tag2": "php",
+      "count": 554
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "php",
+      "count": 23554
+    },
+    {
+      "tag1": "css",
+      "tag2": "php",
+      "count": 1878
+    },
+    {
+      "tag1": "xml",
+      "tag2": "php",
+      "count": 3377
+    },
+    {
+      "tag1": "database",
+      "tag2": "php",
+      "count": 3499
+    },
+    {
+      "tag1": "performance",
+      "tag2": "php",
+      "count": 1495
+    },
+    {
+      "tag1": "linq",
+      "tag2": "php",
+      "count": 9
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "php",
+      "count": 78
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "php",
+      "count": 38
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "php",
+      "count": 26
+    },
+    {
+      "tag1": "java",
+      "tag2": "javascript",
+      "count": 2006
+    },
+    {
+      "tag1": "php",
+      "tag2": "javascript",
+      "count": 10213
+    },
+    {
+      "tag1": ".net",
+      "tag2": "javascript",
+      "count": 1503
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "javascript",
+      "count": 1028
+    },
+    {
+      "tag1": "c",
+      "tag2": "javascript",
+      "count": 111
+    },
+    {
+      "tag1": "css",
+      "tag2": "javascript",
+      "count": 10850
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "javascript",
+      "count": 574
+    },
+    {
+      "tag1": "xml",
+      "tag2": "javascript",
+      "count": 1496
+    },
+    {
+      "tag1": "database",
+      "tag2": "javascript",
+      "count": 254
+    },
+    {
+      "tag1": "performance",
+      "tag2": "javascript",
+      "count": 1098
+    },
+    {
+      "tag1": "linq",
+      "tag2": "javascript",
+      "count": 14
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "javascript",
+      "count": 125
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "javascript",
+      "count": 74
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "javascript",
+      "count": 50
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "javascript",
+      "count": 224
+    },
+    {
+      "tag1": "c#",
+      "tag2": "asp.net",
+      "count": 37288
+    },
+    {
+      "tag1": "java",
+      "tag2": "asp.net",
+      "count": 258
+    },
+    {
+      "tag1": "php",
+      "tag2": "asp.net",
+      "count": 810
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "asp.net",
+      "count": 9453
+    },
+    {
+      "tag1": ".net",
+      "tag2": "asp.net",
+      "count": 13098
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "asp.net",
+      "count": 6660
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "asp.net",
+      "count": 123
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "asp.net",
+      "count": 534
+    },
+    {
+      "tag1": "html",
+      "tag2": "asp.net",
+      "count": 3419
+    },
+    {
+      "tag1": "android",
+      "tag2": "asp.net",
+      "count": 29
+    },
+    {
+      "tag1": "c",
+      "tag2": "asp.net",
+      "count": 7
+    },
+    {
+      "tag1": "css",
+      "tag2": "asp.net",
+      "count": 2214
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "asp.net",
+      "count": 42
+    },
+    {
+      "tag1": "xml",
+      "tag2": "asp.net",
+      "count": 1367
+    },
+    {
+      "tag1": "database",
+      "tag2": "asp.net",
+      "count": 973
+    },
+    {
+      "tag1": "regex",
+      "tag2": "asp.net",
+      "count": 863
+    },
+    {
+      "tag1": "performance",
+      "tag2": "asp.net",
+      "count": 993
+    },
+    {
+      "tag1": "linq",
+      "tag2": "asp.net",
+      "count": 1803
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "asp.net",
+      "count": 1712
+    },
+    {
+      "tag1": "flash",
+      "tag2": "asp.net",
+      "count": 340
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "asp.net",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "asp.net",
+      "count": 70
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "asp.net",
+      "count": 80
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "asp.net",
+      "count": 3154
+    },
+    {
+      "tag1": "c#",
+      "tag2": "jquery",
+      "count": 2387
+    },
+    {
+      "tag1": "java",
+      "tag2": "jquery",
+      "count": 403
+    },
+    {
+      "tag1": "php",
+      "tag2": "jquery",
+      "count": 7862
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "jquery",
+      "count": 44426
+    },
+    {
+      "tag1": ".net",
+      "tag2": "jquery",
+      "count": 722
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "jquery",
+      "count": 378
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "jquery",
+      "count": 1122
+    },
+    {
+      "tag1": "html",
+      "tag2": "jquery",
+      "count": 13469
+    },
+    {
+      "tag1": "c",
+      "tag2": "jquery",
+      "count": 10
+    },
+    {
+      "tag1": "css",
+      "tag2": "jquery",
+      "count": 9064
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "jquery",
+      "count": 229
+    },
+    {
+      "tag1": "xml",
+      "tag2": "jquery",
+      "count": 1172
+    },
+    {
+      "tag1": "database",
+      "tag2": "jquery",
+      "count": 121
+    },
+    {
+      "tag1": "regex",
+      "tag2": "jquery",
+      "count": 737
+    },
+    {
+      "tag1": "performance",
+      "tag2": "jquery",
+      "count": 653
+    },
+    {
+      "tag1": "linq",
+      "tag2": "jquery",
+      "count": 28
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "jquery",
+      "count": 264
+    },
+    {
+      "tag1": "flash",
+      "tag2": "jquery",
+      "count": 692
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "jquery",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "jquery",
+      "count": 63
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "jquery",
+      "count": 39
+    },
+    {
+      "tag1": "java",
+      "tag2": "iphone",
+      "count": 260
+    },
+    {
+      "tag1": "php",
+      "tag2": "iphone",
+      "count": 496
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "iphone",
+      "count": 1161
+    },
+    {
+      "tag1": ".net",
+      "tag2": "iphone",
+      "count": 183
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "iphone",
+      "count": 184
+    },
+    {
+      "tag1": "html",
+      "tag2": "iphone",
+      "count": 782
+    },
+    {
+      "tag1": "c",
+      "tag2": "iphone",
+      "count": 629
+    },
+    {
+      "tag1": "css",
+      "tag2": "iphone",
+      "count": 427
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "iphone",
+      "count": 59
+    },
+    {
+      "tag1": "xml",
+      "tag2": "iphone",
+      "count": 697
+    },
+    {
+      "tag1": "database",
+      "tag2": "iphone",
+      "count": 379
+    },
+    {
+      "tag1": "performance",
+      "tag2": "iphone",
+      "count": 595
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "iphone",
+      "count": 83
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "iphone",
+      "count": 4025
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "iphone",
+      "count": 15426
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "iphone",
+      "count": 108
+    },
+    {
+      "tag1": "c#",
+      "tag2": "c++",
+      "count": 3771
+    },
+    {
+      "tag1": "java",
+      "tag2": "c++",
+      "count": 2107
+    },
+    {
+      "tag1": "php",
+      "tag2": "c++",
+      "count": 376
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "c++",
+      "count": 227
+    },
+    {
+      "tag1": ".net",
+      "tag2": "c++",
+      "count": 1371
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "c++",
+      "count": 63
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "c++",
+      "count": 9
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "c++",
+      "count": 502
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "c++",
+      "count": 324
+    },
+    {
+      "tag1": "html",
+      "tag2": "c++",
+      "count": 177
+    },
+    {
+      "tag1": "android",
+      "tag2": "c++",
+      "count": 170
+    },
+    {
+      "tag1": "c",
+      "tag2": "c++",
+      "count": 11658
+    },
+    {
+      "tag1": "css",
+      "tag2": "c++",
+      "count": 12
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "c++",
+      "count": 98
+    },
+    {
+      "tag1": "xml",
+      "tag2": "c++",
+      "count": 538
+    },
+    {
+      "tag1": "database",
+      "tag2": "c++",
+      "count": 299
+    },
+    {
+      "tag1": "regex",
+      "tag2": "c++",
+      "count": 341
+    },
+    {
+      "tag1": "performance",
+      "tag2": "c++",
+      "count": 1387
+    },
+    {
+      "tag1": "linq",
+      "tag2": "c++",
+      "count": 13
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "c++",
+      "count": 48
+    },
+    {
+      "tag1": "flash",
+      "tag2": "c++",
+      "count": 83
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "c++",
+      "count": 156
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "c++",
+      "count": 37
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "c++",
+      "count": 45
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "c++",
+      "count": 1533
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "c++",
+      "count": 132
+    },
+    {
+      "tag1": "c#",
+      "tag2": "python",
+      "count": 751
+    },
+    {
+      "tag1": "java",
+      "tag2": "python",
+      "count": 1414
+    },
+    {
+      "tag1": "php",
+      "tag2": "python",
+      "count": 1206
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "python",
+      "count": 873
+    },
+    {
+      "tag1": ".net",
+      "tag2": "python",
+      "count": 335
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "python",
+      "count": 87
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "python",
+      "count": 332
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "python",
+      "count": 85
+    },
+    {
+      "tag1": "c++",
+      "tag2": "python",
+      "count": 1267
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "python",
+      "count": 1518
+    },
+    {
+      "tag1": "html",
+      "tag2": "python",
+      "count": 995
+    },
+    {
+      "tag1": "android",
+      "tag2": "python",
+      "count": 78
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "python",
+      "count": 267
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "python",
+      "count": 120
+    },
+    {
+      "tag1": "c",
+      "tag2": "python",
+      "count": 974
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "python",
+      "count": 120
+    },
+    {
+      "tag1": "css",
+      "tag2": "python",
+      "count": 137
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "python",
+      "count": 6
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "python",
+      "count": 20
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "python",
+      "count": 974
+    },
+    {
+      "tag1": "xml",
+      "tag2": "python",
+      "count": 1043
+    },
+    {
+      "tag1": "windows",
+      "tag2": "python",
+      "count": 1620
+    },
+    {
+      "tag1": "database",
+      "tag2": "python",
+      "count": 958
+    },
+    {
+      "tag1": "regex",
+      "tag2": "python",
+      "count": 2131
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "python",
+      "count": 32
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "python",
+      "count": 287
+    },
+    {
+      "tag1": "django",
+      "tag2": "python",
+      "count": 10887
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "python",
+      "count": 79
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "python",
+      "count": 7
+    },
+    {
+      "tag1": "linux",
+      "tag2": "python",
+      "count": 1264
+    },
+    {
+      "tag1": "performance",
+      "tag2": "python",
+      "count": 862
+    },
+    {
+      "tag1": "multithreading",
+      "tag2": "python",
+      "count": 1215
+    },
+    {
+      "tag1": "string",
+      "tag2": "python",
+      "count": 1755
+    },
+    {
+      "tag1": "arrays",
+      "tag2": "python",
+      "count": 508
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "python",
+      "count": 11
+    },
+    {
+      "tag1": "linq",
+      "tag2": "python",
+      "count": 38
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "python",
+      "count": 45
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "python",
+      "count": 7
+    },
+    {
+      "tag1": "flash",
+      "tag2": "python",
+      "count": 100
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "python",
+      "count": 85
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "python",
+      "count": 10
+    },
+    {
+      "tag1": "eclipse",
+      "tag2": "python",
+      "count": 333
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "python",
+      "count": 28
+    },
+    {
+      "tag1": "perl",
+      "tag2": "python",
+      "count": 649
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "python",
+      "count": 725
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "python",
+      "count": 280
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "python",
+      "count": 11
+    },
+    {
+      "tag1": "c#",
+      "tag2": "sql",
+      "count": 5365
+    },
+    {
+      "tag1": "java",
+      "tag2": "sql",
+      "count": 1538
+    },
+    {
+      "tag1": "php",
+      "tag2": "sql",
+      "count": 4617
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "sql",
+      "count": 246
+    },
+    {
+      "tag1": ".net",
+      "tag2": "sql",
+      "count": 2375
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "sql",
+      "count": 2384
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "sql",
+      "count": 120
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "sql",
+      "count": 142
+    },
+    {
+      "tag1": "c++",
+      "tag2": "sql",
+      "count": 244
+    },
+    {
+      "tag1": "python",
+      "tag2": "sql",
+      "count": 720
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "sql",
+      "count": 14725
+    },
+    {
+      "tag1": "html",
+      "tag2": "sql",
+      "count": 362
+    },
+    {
+      "tag1": "android",
+      "tag2": "sql",
+      "count": 181
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "sql",
+      "count": 751
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "sql",
+      "count": 34
+    },
+    {
+      "tag1": "c",
+      "tag2": "sql",
+      "count": 91
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "sql",
+      "count": 18727
+    },
+    {
+      "tag1": "css",
+      "tag2": "sql",
+      "count": 11
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "sql",
+      "count": 102
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "sql",
+      "count": 251
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "sql",
+      "count": 236
+    },
+    {
+      "tag1": "xml",
+      "tag2": "sql",
+      "count": 860
+    },
+    {
+      "tag1": "windows",
+      "tag2": "sql",
+      "count": 76
+    },
+    {
+      "tag1": "database",
+      "tag2": "sql",
+      "count": 7187
+    },
+    {
+      "tag1": "regex",
+      "tag2": "sql",
+      "count": 373
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "sql",
+      "count": 910
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "sql",
+      "count": 162
+    },
+    {
+      "tag1": "django",
+      "tag2": "sql",
+      "count": 454
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "sql",
+      "count": 317
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "sql",
+      "count": 115
+    },
+    {
+      "tag1": "linux",
+      "tag2": "sql",
+      "count": 68
+    },
+    {
+      "tag1": "performance",
+      "tag2": "sql",
+      "count": 1992
+    },
+    {
+      "tag1": "multithreading",
+      "tag2": "sql",
+      "count": 86
+    },
+    {
+      "tag1": "string",
+      "tag2": "sql",
+      "count": 478
+    },
+    {
+      "tag1": "arrays",
+      "tag2": "sql",
+      "count": 162
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "sql",
+      "count": 25
+    },
+    {
+      "tag1": "linq",
+      "tag2": "sql",
+      "count": 1530
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "sql",
+      "count": 262
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "sql",
+      "count": 103
+    },
+    {
+      "tag1": "flash",
+      "tag2": "sql",
+      "count": 10
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "sql",
+      "count": 7
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "sql",
+      "count": 15
+    },
+    {
+      "tag1": "eclipse",
+      "tag2": "sql",
+      "count": 22
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "sql",
+      "count": 13
+    },
+    {
+      "tag1": "perl",
+      "tag2": "sql",
+      "count": 140
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "sql",
+      "count": 235
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "sql",
+      "count": 106
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "sql",
+      "count": 7743
+    },
+    {
+      "tag1": ".net",
+      "tag2": "mysql",
+      "count": 530
+    },
+    {
+      "tag1": "java",
+      "tag2": "html",
+      "count": 1448
+    },
+    {
+      "tag1": "php",
+      "tag2": "html",
+      "count": 8424
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "html",
+      "count": 22815
+    },
+    {
+      "tag1": ".net",
+      "tag2": "html",
+      "count": 942
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "html",
+      "count": 1220
+    },
+    {
+      "tag1": "c",
+      "tag2": "html",
+      "count": 105
+    },
+    {
+      "tag1": "css",
+      "tag2": "html",
+      "count": 22752
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "html",
+      "count": 286
+    },
+    {
+      "tag1": "xml",
+      "tag2": "html",
+      "count": 1324
+    },
+    {
+      "tag1": "database",
+      "tag2": "html",
+      "count": 315
+    },
+    {
+      "tag1": "performance",
+      "tag2": "html",
+      "count": 283
+    },
+    {
+      "tag1": "linq",
+      "tag2": "html",
+      "count": 35
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "html",
+      "count": 13
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "html",
+      "count": 46
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "html",
+      "count": 50
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "html",
+      "count": 49
+    },
+    {
+      "tag1": "c#",
+      "tag2": "android",
+      "count": 96
+    },
+    {
+      "tag1": "java",
+      "tag2": "android",
+      "count": 7113
+    },
+    {
+      "tag1": "php",
+      "tag2": "android",
+      "count": 139
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "android",
+      "count": 319
+    },
+    {
+      "tag1": ".net",
+      "tag2": "android",
+      "count": 119
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "android",
+      "count": 72
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "android",
+      "count": 858
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "android",
+      "count": 75
+    },
+    {
+      "tag1": "html",
+      "tag2": "android",
+      "count": 271
+    },
+    {
+      "tag1": "c",
+      "tag2": "android",
+      "count": 66
+    },
+    {
+      "tag1": "css",
+      "tag2": "android",
+      "count": 109
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "android",
+      "count": 8
+    },
+    {
+      "tag1": "xml",
+      "tag2": "android",
+      "count": 1198
+    },
+    {
+      "tag1": "database",
+      "tag2": "android",
+      "count": 666
+    },
+    {
+      "tag1": "regex",
+      "tag2": "android",
+      "count": 90
+    },
+    {
+      "tag1": "performance",
+      "tag2": "android",
+      "count": 251
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "android",
+      "count": 67
+    },
+    {
+      "tag1": "flash",
+      "tag2": "android",
+      "count": 77
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "android",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "android",
+      "count": 9
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "android",
+      "count": 35
+    },
+    {
+      "tag1": "c#",
+      "tag2": "ruby-on-rails",
+      "count": 109
+    },
+    {
+      "tag1": "java",
+      "tag2": "ruby-on-rails",
+      "count": 256
+    },
+    {
+      "tag1": "php",
+      "tag2": "ruby-on-rails",
+      "count": 468
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "ruby-on-rails",
+      "count": 1758
+    },
+    {
+      "tag1": ".net",
+      "tag2": "ruby-on-rails",
+      "count": 100
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "ruby-on-rails",
+      "count": 105
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "ruby-on-rails",
+      "count": 1364
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "ruby-on-rails",
+      "count": 116
+    },
+    {
+      "tag1": "c++",
+      "tag2": "ruby-on-rails",
+      "count": 20
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "ruby-on-rails",
+      "count": 1415
+    },
+    {
+      "tag1": "html",
+      "tag2": "ruby-on-rails",
+      "count": 505
+    },
+    {
+      "tag1": "android",
+      "tag2": "ruby-on-rails",
+      "count": 22
+    },
+    {
+      "tag1": "c",
+      "tag2": "ruby-on-rails",
+      "count": 17
+    },
+    {
+      "tag1": "css",
+      "tag2": "ruby-on-rails",
+      "count": 319
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "ruby-on-rails",
+      "count": 13751
+    },
+    {
+      "tag1": "xml",
+      "tag2": "ruby-on-rails",
+      "count": 417
+    },
+    {
+      "tag1": "database",
+      "tag2": "ruby-on-rails",
+      "count": 865
+    },
+    {
+      "tag1": "regex",
+      "tag2": "ruby-on-rails",
+      "count": 272
+    },
+    {
+      "tag1": "performance",
+      "tag2": "ruby-on-rails",
+      "count": 298
+    },
+    {
+      "tag1": "linq",
+      "tag2": "ruby-on-rails",
+      "count": 2
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "ruby-on-rails",
+      "count": 14
+    },
+    {
+      "tag1": "flash",
+      "tag2": "ruby-on-rails",
+      "count": 74
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "ruby-on-rails",
+      "count": 16
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "ruby-on-rails",
+      "count": 26
+    },
+    {
+      "tag1": "perl",
+      "tag2": "ruby-on-rails",
+      "count": 18
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "ruby-on-rails",
+      "count": 34
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "ruby-on-rails",
+      "count": 155
+    },
+    {
+      "tag1": "c#",
+      "tag2": "objective-c",
+      "count": 183
+    },
+    {
+      "tag1": "java",
+      "tag2": "objective-c",
+      "count": 275
+    },
+    {
+      "tag1": "php",
+      "tag2": "objective-c",
+      "count": 146
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "objective-c",
+      "count": 211
+    },
+    {
+      "tag1": ".net",
+      "tag2": "objective-c",
+      "count": 68
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "objective-c",
+      "count": 10
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "objective-c",
+      "count": 4
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "objective-c",
+      "count": 30068
+    },
+    {
+      "tag1": "c++",
+      "tag2": "objective-c",
+      "count": 739
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "objective-c",
+      "count": 34
+    },
+    {
+      "tag1": "html",
+      "tag2": "objective-c",
+      "count": 128
+    },
+    {
+      "tag1": "android",
+      "tag2": "objective-c",
+      "count": 51
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "objective-c",
+      "count": 35
+    },
+    {
+      "tag1": "c",
+      "tag2": "objective-c",
+      "count": 1316
+    },
+    {
+      "tag1": "css",
+      "tag2": "objective-c",
+      "count": 9
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "objective-c",
+      "count": 3
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "objective-c",
+      "count": 3
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "objective-c",
+      "count": 79
+    },
+    {
+      "tag1": "xml",
+      "tag2": "objective-c",
+      "count": 398
+    },
+    {
+      "tag1": "windows",
+      "tag2": "objective-c",
+      "count": 67
+    },
+    {
+      "tag1": "database",
+      "tag2": "objective-c",
+      "count": 118
+    },
+    {
+      "tag1": "regex",
+      "tag2": "objective-c",
+      "count": 151
+    },
+    {
+      "tag1": "django",
+      "tag2": "objective-c",
+      "count": 9
+    },
+    {
+      "tag1": "linux",
+      "tag2": "objective-c",
+      "count": 45
+    },
+    {
+      "tag1": "performance",
+      "tag2": "objective-c",
+      "count": 245
+    },
+    {
+      "tag1": "string",
+      "tag2": "objective-c",
+      "count": 459
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "objective-c",
+      "count": 15
+    },
+    {
+      "tag1": "flash",
+      "tag2": "objective-c",
+      "count": 17
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "objective-c",
+      "count": 9446
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "objective-c",
+      "count": 9349
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "objective-c",
+      "count": 27
+    },
+    {
+      "tag1": "perl",
+      "tag2": "objective-c",
+      "count": 10
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "objective-c",
+      "count": 96
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "objective-c",
+      "count": 147
+    },
+    {
+      "tag1": "java",
+      "tag2": "c",
+      "count": 1053
+    },
+    {
+      "tag1": "php",
+      "tag2": "c",
+      "count": 298
+    },
+    {
+      "tag1": ".net",
+      "tag2": "c",
+      "count": 247
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "c",
+      "count": 151
+    },
+    {
+      "tag1": "css",
+      "tag2": "c",
+      "count": 5
+    },
+    {
+      "tag1": "xml",
+      "tag2": "c",
+      "count": 162
+    },
+    {
+      "tag1": "database",
+      "tag2": "c",
+      "count": 117
+    },
+    {
+      "tag1": "performance",
+      "tag2": "c",
+      "count": 690
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "c",
+      "count": 6
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "c",
+      "count": 264
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "c",
+      "count": 98
+    },
+    {
+      "tag1": "c#",
+      "tag2": "sql-server",
+      "count": 5238
+    },
+    {
+      "tag1": "java",
+      "tag2": "sql-server",
+      "count": 385
+    },
+    {
+      "tag1": "php",
+      "tag2": "sql-server",
+      "count": 580
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "sql-server",
+      "count": 67
+    },
+    {
+      "tag1": ".net",
+      "tag2": "sql-server",
+      "count": 2935
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "sql-server",
+      "count": 2900
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "sql-server",
+      "count": 47
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "sql-server",
+      "count": 32
+    },
+    {
+      "tag1": "c++",
+      "tag2": "sql-server",
+      "count": 101
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "sql-server",
+      "count": 1091
+    },
+    {
+      "tag1": "html",
+      "tag2": "sql-server",
+      "count": 55
+    },
+    {
+      "tag1": "android",
+      "tag2": "sql-server",
+      "count": 13
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "sql-server",
+      "count": 82
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "sql-server",
+      "count": 17
+    },
+    {
+      "tag1": "c",
+      "tag2": "sql-server",
+      "count": 21
+    },
+    {
+      "tag1": "css",
+      "tag2": "sql-server",
+      "count": 2
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "sql-server",
+      "count": 105
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "sql-server",
+      "count": 408
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "sql-server",
+      "count": 79
+    },
+    {
+      "tag1": "xml",
+      "tag2": "sql-server",
+      "count": 926
+    },
+    {
+      "tag1": "windows",
+      "tag2": "sql-server",
+      "count": 176
+    },
+    {
+      "tag1": "database",
+      "tag2": "sql-server",
+      "count": 3337
+    },
+    {
+      "tag1": "regex",
+      "tag2": "sql-server",
+      "count": 108
+    },
+    {
+      "tag1": "django",
+      "tag2": "sql-server",
+      "count": 49
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "sql-server",
+      "count": 510
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "sql-server",
+      "count": 181
+    },
+    {
+      "tag1": "linux",
+      "tag2": "sql-server",
+      "count": 34
+    },
+    {
+      "tag1": "performance",
+      "tag2": "sql-server",
+      "count": 1686
+    },
+    {
+      "tag1": "string",
+      "tag2": "sql-server",
+      "count": 220
+    },
+    {
+      "tag1": "linq",
+      "tag2": "sql-server",
+      "count": 592
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "sql-server",
+      "count": 403
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "sql-server",
+      "count": 136
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "sql-server",
+      "count": 6
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "sql-server",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "sql-server",
+      "count": 3
+    },
+    {
+      "tag1": "perl",
+      "tag2": "sql-server",
+      "count": 45
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "sql-server",
+      "count": 83
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "sql-server",
+      "count": 195
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "sql-server",
+      "count": 8764
+    },
+    {
+      "tag1": "java",
+      "tag2": "css",
+      "count": 254
+    },
+    {
+      "tag1": ".net",
+      "tag2": "css",
+      "count": 300
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "css",
+      "count": 107
+    },
+    {
+      "tag1": "xml",
+      "tag2": "css",
+      "count": 189
+    },
+    {
+      "tag1": "database",
+      "tag2": "css",
+      "count": 12
+    },
+    {
+      "tag1": "performance",
+      "tag2": "css",
+      "count": 202
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "css",
+      "count": 7
+    },
+    {
+      "tag1": "c#",
+      "tag2": "wpf",
+      "count": 14071
+    },
+    {
+      "tag1": "java",
+      "tag2": "wpf",
+      "count": 43
+    },
+    {
+      "tag1": "php",
+      "tag2": "wpf",
+      "count": 10
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "wpf",
+      "count": 48
+    },
+    {
+      "tag1": ".net",
+      "tag2": "wpf",
+      "count": 6793
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "wpf",
+      "count": 239
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "wpf",
+      "count": 15
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "wpf",
+      "count": 14
+    },
+    {
+      "tag1": "c++",
+      "tag2": "wpf",
+      "count": 89
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "wpf",
+      "count": 18
+    },
+    {
+      "tag1": "html",
+      "tag2": "wpf",
+      "count": 76
+    },
+    {
+      "tag1": "android",
+      "tag2": "wpf",
+      "count": 9
+    },
+    {
+      "tag1": "c",
+      "tag2": "wpf",
+      "count": 17
+    },
+    {
+      "tag1": "css",
+      "tag2": "wpf",
+      "count": 24
+    },
+    {
+      "tag1": "xml",
+      "tag2": "wpf",
+      "count": 250
+    },
+    {
+      "tag1": "database",
+      "tag2": "wpf",
+      "count": 136
+    },
+    {
+      "tag1": "regex",
+      "tag2": "wpf",
+      "count": 23
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "wpf",
+      "count": 1106
+    },
+    {
+      "tag1": "performance",
+      "tag2": "wpf",
+      "count": 436
+    },
+    {
+      "tag1": "linq",
+      "tag2": "wpf",
+      "count": 220
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "wpf",
+      "count": 253
+    },
+    {
+      "tag1": "flash",
+      "tag2": "wpf",
+      "count": 69
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "wpf",
+      "count": 15
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "wpf",
+      "count": 7
+    },
+    {
+      "tag1": "perl",
+      "tag2": "wpf",
+      "count": 3
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "wpf",
+      "count": 27
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "wpf",
+      "count": 67
+    },
+    {
+      "tag1": "c#",
+      "tag2": "asp.net-mvc",
+      "count": 8527
+    },
+    {
+      "tag1": "java",
+      "tag2": "asp.net-mvc",
+      "count": 48
+    },
+    {
+      "tag1": "php",
+      "tag2": "asp.net-mvc",
+      "count": 82
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "asp.net-mvc",
+      "count": 1835
+    },
+    {
+      "tag1": ".net",
+      "tag2": "asp.net-mvc",
+      "count": 3113
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "asp.net-mvc",
+      "count": 8794
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "asp.net-mvc",
+      "count": 4225
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "asp.net-mvc",
+      "count": 26
+    },
+    {
+      "tag1": "c++",
+      "tag2": "asp.net-mvc",
+      "count": 2
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "asp.net-mvc",
+      "count": 105
+    },
+    {
+      "tag1": "html",
+      "tag2": "asp.net-mvc",
+      "count": 807
+    },
+    {
+      "tag1": "android",
+      "tag2": "asp.net-mvc",
+      "count": 5
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "asp.net-mvc",
+      "count": 104
+    },
+    {
+      "tag1": "c",
+      "tag2": "asp.net-mvc",
+      "count": 3
+    },
+    {
+      "tag1": "css",
+      "tag2": "asp.net-mvc",
+      "count": 341
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "asp.net-mvc",
+      "count": 75
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "asp.net-mvc",
+      "count": 12
+    },
+    {
+      "tag1": "xml",
+      "tag2": "asp.net-mvc",
+      "count": 183
+    },
+    {
+      "tag1": "database",
+      "tag2": "asp.net-mvc",
+      "count": 179
+    },
+    {
+      "tag1": "regex",
+      "tag2": "asp.net-mvc",
+      "count": 102
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "asp.net-mvc",
+      "count": 384
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "asp.net-mvc",
+      "count": 53
+    },
+    {
+      "tag1": "performance",
+      "tag2": "asp.net-mvc",
+      "count": 171
+    },
+    {
+      "tag1": "linq",
+      "tag2": "asp.net-mvc",
+      "count": 768
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "asp.net-mvc",
+      "count": 278
+    },
+    {
+      "tag1": "flash",
+      "tag2": "asp.net-mvc",
+      "count": 56
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "asp.net-mvc",
+      "count": 15
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "asp.net-mvc",
+      "count": 11
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "asp.net-mvc",
+      "count": 152
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "asp.net-mvc",
+      "count": 71
+    },
+    {
+      "tag1": "java",
+      "tag2": "ruby",
+      "count": 509
+    },
+    {
+      "tag1": "php",
+      "tag2": "ruby",
+      "count": 535
+    },
+    {
+      "tag1": ".net",
+      "tag2": "ruby",
+      "count": 147
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "ruby",
+      "count": 648
+    },
+    {
+      "tag1": "c",
+      "tag2": "ruby",
+      "count": 177
+    },
+    {
+      "tag1": "css",
+      "tag2": "ruby",
+      "count": 104
+    },
+    {
+      "tag1": "xml",
+      "tag2": "ruby",
+      "count": 481
+    },
+    {
+      "tag1": "database",
+      "tag2": "ruby",
+      "count": 365
+    },
+    {
+      "tag1": "performance",
+      "tag2": "ruby",
+      "count": 208
+    },
+    {
+      "tag1": "linq",
+      "tag2": "ruby",
+      "count": 8
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "ruby",
+      "count": 8
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "ruby",
+      "count": 59
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "ruby",
+      "count": 7
+    },
+    {
+      "tag1": ".net",
+      "tag2": "xml",
+      "count": 3047
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "xml",
+      "count": 394
+    },
+    {
+      "tag1": "c#",
+      "tag2": "windows",
+      "count": 4195
+    },
+    {
+      "tag1": "java",
+      "tag2": "windows",
+      "count": 1193
+    },
+    {
+      "tag1": "php",
+      "tag2": "windows",
+      "count": 694
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "windows",
+      "count": 219
+    },
+    {
+      "tag1": ".net",
+      "tag2": "windows",
+      "count": 2915
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "windows",
+      "count": 466
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "windows",
+      "count": 34
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "windows",
+      "count": 108
+    },
+    {
+      "tag1": "c++",
+      "tag2": "windows",
+      "count": 5676
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "windows",
+      "count": 221
+    },
+    {
+      "tag1": "html",
+      "tag2": "windows",
+      "count": 121
+    },
+    {
+      "tag1": "android",
+      "tag2": "windows",
+      "count": 67
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "windows",
+      "count": 200
+    },
+    {
+      "tag1": "c",
+      "tag2": "windows",
+      "count": 2041
+    },
+    {
+      "tag1": "css",
+      "tag2": "windows",
+      "count": 48
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "windows",
+      "count": 487
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "windows",
+      "count": 36
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "windows",
+      "count": 445
+    },
+    {
+      "tag1": "xml",
+      "tag2": "windows",
+      "count": 88
+    },
+    {
+      "tag1": "database",
+      "tag2": "windows",
+      "count": 115
+    },
+    {
+      "tag1": "regex",
+      "tag2": "windows",
+      "count": 74
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "windows",
+      "count": 644
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "windows",
+      "count": 772
+    },
+    {
+      "tag1": "performance",
+      "tag2": "windows",
+      "count": 341
+    },
+    {
+      "tag1": "linq",
+      "tag2": "windows",
+      "count": 18
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "windows",
+      "count": 144
+    },
+    {
+      "tag1": "flash",
+      "tag2": "windows",
+      "count": 87
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "windows",
+      "count": 47
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "windows",
+      "count": 20
+    },
+    {
+      "tag1": "perl",
+      "tag2": "windows",
+      "count": 391
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "windows",
+      "count": 27
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "windows",
+      "count": 96
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "windows",
+      "count": 47
+    },
+    {
+      "tag1": "java",
+      "tag2": "database",
+      "count": 1914
+    },
+    {
+      "tag1": ".net",
+      "tag2": "database",
+      "count": 1432
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "database",
+      "count": 7426
+    },
+    {
+      "tag1": "xml",
+      "tag2": "database",
+      "count": 365
+    },
+    {
+      "tag1": "performance",
+      "tag2": "database",
+      "count": 1129
+    },
+    {
+      "tag1": "linq",
+      "tag2": "database",
+      "count": 256
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "database",
+      "count": 43
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "database",
+      "count": 19
+    },
+    {
+      "tag1": "java",
+      "tag2": "regex",
+      "count": 2405
+    },
+    {
+      "tag1": "php",
+      "tag2": "regex",
+      "count": 5552
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "regex",
+      "count": 3271
+    },
+    {
+      "tag1": ".net",
+      "tag2": "regex",
+      "count": 1969
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "regex",
+      "count": 106
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "regex",
+      "count": 421
+    },
+    {
+      "tag1": "html",
+      "tag2": "regex",
+      "count": 1433
+    },
+    {
+      "tag1": "c",
+      "tag2": "regex",
+      "count": 185
+    },
+    {
+      "tag1": "css",
+      "tag2": "regex",
+      "count": 114
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "regex",
+      "count": 948
+    },
+    {
+      "tag1": "xml",
+      "tag2": "regex",
+      "count": 366
+    },
+    {
+      "tag1": "database",
+      "tag2": "regex",
+      "count": 48
+    },
+    {
+      "tag1": "performance",
+      "tag2": "regex",
+      "count": 219
+    },
+    {
+      "tag1": "linq",
+      "tag2": "regex",
+      "count": 58
+    },
+    {
+      "tag1": "flash",
+      "tag2": "regex",
+      "count": 39
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "regex",
+      "count": 45
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "regex",
+      "count": 15
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "regex",
+      "count": 170
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "regex",
+      "count": 115
+    },
+    {
+      "tag1": "c#",
+      "tag2": "vb.net",
+      "count": 7179
+    },
+    {
+      "tag1": "java",
+      "tag2": "vb.net",
+      "count": 96
+    },
+    {
+      "tag1": "php",
+      "tag2": "vb.net",
+      "count": 103
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "vb.net",
+      "count": 495
+    },
+    {
+      "tag1": ".net",
+      "tag2": "vb.net",
+      "count": 7840
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "vb.net",
+      "count": 5928
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "vb.net",
+      "count": 217
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "vb.net",
+      "count": 7
+    },
+    {
+      "tag1": "c++",
+      "tag2": "vb.net",
+      "count": 172
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "vb.net",
+      "count": 219
+    },
+    {
+      "tag1": "html",
+      "tag2": "vb.net",
+      "count": 346
+    },
+    {
+      "tag1": "android",
+      "tag2": "vb.net",
+      "count": 9
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "vb.net",
+      "count": 3
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "vb.net",
+      "count": 7
+    },
+    {
+      "tag1": "c",
+      "tag2": "vb.net",
+      "count": 48
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "vb.net",
+      "count": 741
+    },
+    {
+      "tag1": "css",
+      "tag2": "vb.net",
+      "count": 88
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "vb.net",
+      "count": 659
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "vb.net",
+      "count": 488
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "vb.net",
+      "count": 5
+    },
+    {
+      "tag1": "xml",
+      "tag2": "vb.net",
+      "count": 636
+    },
+    {
+      "tag1": "windows",
+      "tag2": "vb.net",
+      "count": 330
+    },
+    {
+      "tag1": "database",
+      "tag2": "vb.net",
+      "count": 301
+    },
+    {
+      "tag1": "regex",
+      "tag2": "vb.net",
+      "count": 378
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "vb.net",
+      "count": 1102
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "vb.net",
+      "count": 1887
+    },
+    {
+      "tag1": "linux",
+      "tag2": "vb.net",
+      "count": 4
+    },
+    {
+      "tag1": "performance",
+      "tag2": "vb.net",
+      "count": 194
+    },
+    {
+      "tag1": "string",
+      "tag2": "vb.net",
+      "count": 502
+    },
+    {
+      "tag1": "linq",
+      "tag2": "vb.net",
+      "count": 1030
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "vb.net",
+      "count": 1061
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "vb.net",
+      "count": 166
+    },
+    {
+      "tag1": "flash",
+      "tag2": "vb.net",
+      "count": 37
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "vb.net",
+      "count": 3
+    },
+    {
+      "tag1": "perl",
+      "tag2": "vb.net",
+      "count": 23
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "vb.net",
+      "count": 68
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "vb.net",
+      "count": 364
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "vb.net",
+      "count": 192
+    },
+    {
+      "tag1": "c#",
+      "tag2": "ajax",
+      "count": 1789
+    },
+    {
+      "tag1": "java",
+      "tag2": "ajax",
+      "count": 655
+    },
+    {
+      "tag1": "php",
+      "tag2": "ajax",
+      "count": 5894
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "ajax",
+      "count": 11904
+    },
+    {
+      "tag1": ".net",
+      "tag2": "ajax",
+      "count": 702
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "ajax",
+      "count": 4955
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "ajax",
+      "count": 14298
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "ajax",
+      "count": 98
+    },
+    {
+      "tag1": "c++",
+      "tag2": "ajax",
+      "count": 20
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "ajax",
+      "count": 962
+    },
+    {
+      "tag1": "html",
+      "tag2": "ajax",
+      "count": 2515
+    },
+    {
+      "tag1": "android",
+      "tag2": "ajax",
+      "count": 29
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "ajax",
+      "count": 1297
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "ajax",
+      "count": 2
+    },
+    {
+      "tag1": "c",
+      "tag2": "ajax",
+      "count": 15
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "ajax",
+      "count": 55
+    },
+    {
+      "tag1": "css",
+      "tag2": "ajax",
+      "count": 486
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "ajax",
+      "count": 15
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "ajax",
+      "count": 1631
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "ajax",
+      "count": 310
+    },
+    {
+      "tag1": "xml",
+      "tag2": "ajax",
+      "count": 630
+    },
+    {
+      "tag1": "windows",
+      "tag2": "ajax",
+      "count": 15
+    },
+    {
+      "tag1": "database",
+      "tag2": "ajax",
+      "count": 172
+    },
+    {
+      "tag1": "regex",
+      "tag2": "ajax",
+      "count": 41
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "ajax",
+      "count": 219
+    },
+    {
+      "tag1": "django",
+      "tag2": "ajax",
+      "count": 405
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "ajax",
+      "count": 53
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "ajax",
+      "count": 14
+    },
+    {
+      "tag1": "linux",
+      "tag2": "ajax",
+      "count": 24
+    },
+    {
+      "tag1": "performance",
+      "tag2": "ajax",
+      "count": 196
+    },
+    {
+      "tag1": "string",
+      "tag2": "ajax",
+      "count": 42
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "ajax",
+      "count": 56
+    },
+    {
+      "tag1": "linq",
+      "tag2": "ajax",
+      "count": 21
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "ajax",
+      "count": 57
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "ajax",
+      "count": 270
+    },
+    {
+      "tag1": "flash",
+      "tag2": "ajax",
+      "count": 217
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "ajax",
+      "count": 2
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "ajax",
+      "count": 30
+    },
+    {
+      "tag1": "perl",
+      "tag2": "ajax",
+      "count": 74
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "ajax",
+      "count": 6
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "ajax",
+      "count": 472
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "ajax",
+      "count": 7
+    },
+    {
+      "tag1": "c#",
+      "tag2": "django",
+      "count": 43
+    },
+    {
+      "tag1": "java",
+      "tag2": "django",
+      "count": 81
+    },
+    {
+      "tag1": "php",
+      "tag2": "django",
+      "count": 223
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "django",
+      "count": 538
+    },
+    {
+      "tag1": ".net",
+      "tag2": "django",
+      "count": 30
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "django",
+      "count": 54
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "django",
+      "count": 618
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "django",
+      "count": 25
+    },
+    {
+      "tag1": "c++",
+      "tag2": "django",
+      "count": 13
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "django",
+      "count": 779
+    },
+    {
+      "tag1": "html",
+      "tag2": "django",
+      "count": 341
+    },
+    {
+      "tag1": "android",
+      "tag2": "django",
+      "count": 46
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "django",
+      "count": 311
+    },
+    {
+      "tag1": "c",
+      "tag2": "django",
+      "count": 5
+    },
+    {
+      "tag1": "css",
+      "tag2": "django",
+      "count": 147
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "django",
+      "count": 36
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "django",
+      "count": 89
+    },
+    {
+      "tag1": "xml",
+      "tag2": "django",
+      "count": 61
+    },
+    {
+      "tag1": "windows",
+      "tag2": "django",
+      "count": 104
+    },
+    {
+      "tag1": "database",
+      "tag2": "django",
+      "count": 622
+    },
+    {
+      "tag1": "regex",
+      "tag2": "django",
+      "count": 141
+    },
+    {
+      "tag1": "performance",
+      "tag2": "django",
+      "count": 125
+    },
+    {
+      "tag1": "linq",
+      "tag2": "django",
+      "count": 3
+    },
+    {
+      "tag1": "flash",
+      "tag2": "django",
+      "count": 37
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "django",
+      "count": 4
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "django",
+      "count": 24
+    },
+    {
+      "tag1": "perl",
+      "tag2": "django",
+      "count": 5
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "django",
+      "count": 20
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "django",
+      "count": 54
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "django",
+      "count": 4
+    },
+    {
+      "tag1": "c#",
+      "tag2": "visual-studio",
+      "count": 6347
+    },
+    {
+      "tag1": "java",
+      "tag2": "visual-studio",
+      "count": 109
+    },
+    {
+      "tag1": "php",
+      "tag2": "visual-studio",
+      "count": 55
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "visual-studio",
+      "count": 343
+    },
+    {
+      "tag1": ".net",
+      "tag2": "visual-studio",
+      "count": 4444
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "visual-studio",
+      "count": 2351
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "visual-studio",
+      "count": 82
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "visual-studio",
+      "count": 10
+    },
+    {
+      "tag1": "c++",
+      "tag2": "visual-studio",
+      "count": 2720
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "visual-studio",
+      "count": 66
+    },
+    {
+      "tag1": "html",
+      "tag2": "visual-studio",
+      "count": 130
+    },
+    {
+      "tag1": "android",
+      "tag2": "visual-studio",
+      "count": 20
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "visual-studio",
+      "count": 7
+    },
+    {
+      "tag1": "c",
+      "tag2": "visual-studio",
+      "count": 631
+    },
+    {
+      "tag1": "css",
+      "tag2": "visual-studio",
+      "count": 124
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "visual-studio",
+      "count": 504
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "visual-studio",
+      "count": 9
+    },
+    {
+      "tag1": "xml",
+      "tag2": "visual-studio",
+      "count": 184
+    },
+    {
+      "tag1": "database",
+      "tag2": "visual-studio",
+      "count": 242
+    },
+    {
+      "tag1": "regex",
+      "tag2": "visual-studio",
+      "count": 147
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "visual-studio",
+      "count": 705
+    },
+    {
+      "tag1": "performance",
+      "tag2": "visual-studio",
+      "count": 177
+    },
+    {
+      "tag1": "linq",
+      "tag2": "visual-studio",
+      "count": 211
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "visual-studio",
+      "count": 207
+    },
+    {
+      "tag1": "flash",
+      "tag2": "visual-studio",
+      "count": 14
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "visual-studio",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "visual-studio",
+      "count": 7
+    },
+    {
+      "tag1": "perl",
+      "tag2": "visual-studio",
+      "count": 8
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "visual-studio",
+      "count": 9
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "visual-studio",
+      "count": 262
+    },
+    {
+      "tag1": "c#",
+      "tag2": "winforms",
+      "count": 18379
+    },
+    {
+      "tag1": "java",
+      "tag2": "winforms",
+      "count": 43
+    },
+    {
+      "tag1": "php",
+      "tag2": "winforms",
+      "count": 14
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "winforms",
+      "count": 62
+    },
+    {
+      "tag1": ".net",
+      "tag2": "winforms",
+      "count": 10354
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "winforms",
+      "count": 457
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "winforms",
+      "count": 22
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "winforms",
+      "count": 6
+    },
+    {
+      "tag1": "c++",
+      "tag2": "winforms",
+      "count": 130
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "winforms",
+      "count": 36
+    },
+    {
+      "tag1": "html",
+      "tag2": "winforms",
+      "count": 87
+    },
+    {
+      "tag1": "c",
+      "tag2": "winforms",
+      "count": 6
+    },
+    {
+      "tag1": "css",
+      "tag2": "winforms",
+      "count": 2
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "winforms",
+      "count": 6
+    },
+    {
+      "tag1": "xml",
+      "tag2": "winforms",
+      "count": 199
+    },
+    {
+      "tag1": "database",
+      "tag2": "winforms",
+      "count": 97
+    },
+    {
+      "tag1": "regex",
+      "tag2": "winforms",
+      "count": 66
+    },
+    {
+      "tag1": "performance",
+      "tag2": "winforms",
+      "count": 209
+    },
+    {
+      "tag1": "linq",
+      "tag2": "winforms",
+      "count": 228
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "winforms",
+      "count": 114
+    },
+    {
+      "tag1": "flash",
+      "tag2": "winforms",
+      "count": 41
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "winforms",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "winforms",
+      "count": 4
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "winforms",
+      "count": 16
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "winforms",
+      "count": 97
+    },
+    {
+      "tag1": "c#",
+      "tag2": "linux",
+      "count": 260
+    },
+    {
+      "tag1": "java",
+      "tag2": "linux",
+      "count": 1101
+    },
+    {
+      "tag1": "php",
+      "tag2": "linux",
+      "count": 1099
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "linux",
+      "count": 90
+    },
+    {
+      "tag1": ".net",
+      "tag2": "linux",
+      "count": 206
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "linux",
+      "count": 69
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "linux",
+      "count": 14
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "linux",
+      "count": 56
+    },
+    {
+      "tag1": "c++",
+      "tag2": "linux",
+      "count": 2956
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "linux",
+      "count": 414
+    },
+    {
+      "tag1": "html",
+      "tag2": "linux",
+      "count": 103
+    },
+    {
+      "tag1": "android",
+      "tag2": "linux",
+      "count": 115
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "linux",
+      "count": 144
+    },
+    {
+      "tag1": "c",
+      "tag2": "linux",
+      "count": 3426
+    },
+    {
+      "tag1": "css",
+      "tag2": "linux",
+      "count": 28
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "linux",
+      "count": 3
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "linux",
+      "count": 15
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "linux",
+      "count": 270
+    },
+    {
+      "tag1": "xml",
+      "tag2": "linux",
+      "count": 61
+    },
+    {
+      "tag1": "windows",
+      "tag2": "linux",
+      "count": 1322
+    },
+    {
+      "tag1": "database",
+      "tag2": "linux",
+      "count": 130
+    },
+    {
+      "tag1": "regex",
+      "tag2": "linux",
+      "count": 194
+    },
+    {
+      "tag1": "django",
+      "tag2": "linux",
+      "count": 61
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "linux",
+      "count": 58
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "linux",
+      "count": 10
+    },
+    {
+      "tag1": "performance",
+      "tag2": "linux",
+      "count": 249
+    },
+    {
+      "tag1": "string",
+      "tag2": "linux",
+      "count": 50
+    },
+    {
+      "tag1": "linq",
+      "tag2": "linux",
+      "count": 4
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "linux",
+      "count": 6
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "linux",
+      "count": 15
+    },
+    {
+      "tag1": "flash",
+      "tag2": "linux",
+      "count": 79
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "linux",
+      "count": 9
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "linux",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "linux",
+      "count": 6
+    },
+    {
+      "tag1": "perl",
+      "tag2": "linux",
+      "count": 374
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "linux",
+      "count": 30
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "linux",
+      "count": 21
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "linux",
+      "count": 13
+    },
+    {
+      "tag1": ".net",
+      "tag2": "performance",
+      "count": 2069
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "performance",
+      "count": 1910
+    },
+    {
+      "tag1": "xml",
+      "tag2": "performance",
+      "count": 259
+    },
+    {
+      "tag1": "c#",
+      "tag2": "multithreading",
+      "count": 6550
+    },
+    {
+      "tag1": "java",
+      "tag2": "multithreading",
+      "count": 3845
+    },
+    {
+      "tag1": "php",
+      "tag2": "multithreading",
+      "count": 135
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "multithreading",
+      "count": 99
+    },
+    {
+      "tag1": ".net",
+      "tag2": "multithreading",
+      "count": 3469
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "multithreading",
+      "count": 603
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "multithreading",
+      "count": 14
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "multithreading",
+      "count": 745
+    },
+    {
+      "tag1": "c++",
+      "tag2": "multithreading",
+      "count": 2438
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "multithreading",
+      "count": 129
+    },
+    {
+      "tag1": "html",
+      "tag2": "multithreading",
+      "count": 6
+    },
+    {
+      "tag1": "android",
+      "tag2": "multithreading",
+      "count": 590
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "multithreading",
+      "count": 54
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "multithreading",
+      "count": 520
+    },
+    {
+      "tag1": "c",
+      "tag2": "multithreading",
+      "count": 971
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "multithreading",
+      "count": 74
+    },
+    {
+      "tag1": "css",
+      "tag2": "multithreading",
+      "count": 3
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "multithreading",
+      "count": 688
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "multithreading",
+      "count": 74
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "multithreading",
+      "count": 222
+    },
+    {
+      "tag1": "xml",
+      "tag2": "multithreading",
+      "count": 18
+    },
+    {
+      "tag1": "windows",
+      "tag2": "multithreading",
+      "count": 656
+    },
+    {
+      "tag1": "database",
+      "tag2": "multithreading",
+      "count": 112
+    },
+    {
+      "tag1": "regex",
+      "tag2": "multithreading",
+      "count": 12
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "multithreading",
+      "count": 395
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "multithreading",
+      "count": 37
+    },
+    {
+      "tag1": "django",
+      "tag2": "multithreading",
+      "count": 107
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "multithreading",
+      "count": 145
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "multithreading",
+      "count": 919
+    },
+    {
+      "tag1": "linux",
+      "tag2": "multithreading",
+      "count": 516
+    },
+    {
+      "tag1": "performance",
+      "tag2": "multithreading",
+      "count": 556
+    },
+    {
+      "tag1": "string",
+      "tag2": "multithreading",
+      "count": 24
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "multithreading",
+      "count": 145
+    },
+    {
+      "tag1": "linq",
+      "tag2": "multithreading",
+      "count": 20
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "multithreading",
+      "count": 115
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "multithreading",
+      "count": 247
+    },
+    {
+      "tag1": "flash",
+      "tag2": "multithreading",
+      "count": 13
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "multithreading",
+      "count": 316
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "multithreading",
+      "count": 205
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "multithreading",
+      "count": 11
+    },
+    {
+      "tag1": "perl",
+      "tag2": "multithreading",
+      "count": 148
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "multithreading",
+      "count": 73
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "multithreading",
+      "count": 109
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "multithreading",
+      "count": 21
+    },
+    {
+      "tag1": "c#",
+      "tag2": "string",
+      "count": 4000
+    },
+    {
+      "tag1": "java",
+      "tag2": "string",
+      "count": 2650
+    },
+    {
+      "tag1": "php",
+      "tag2": "string",
+      "count": 2424
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "string",
+      "count": 1203
+    },
+    {
+      "tag1": ".net",
+      "tag2": "string",
+      "count": 1503
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "string",
+      "count": 397
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "string",
+      "count": 469
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "string",
+      "count": 346
+    },
+    {
+      "tag1": "c++",
+      "tag2": "string",
+      "count": 2174
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "string",
+      "count": 402
+    },
+    {
+      "tag1": "html",
+      "tag2": "string",
+      "count": 416
+    },
+    {
+      "tag1": "android",
+      "tag2": "string",
+      "count": 265
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "string",
+      "count": 165
+    },
+    {
+      "tag1": "c",
+      "tag2": "string",
+      "count": 1388
+    },
+    {
+      "tag1": "css",
+      "tag2": "string",
+      "count": 26
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "string",
+      "count": 61
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "string",
+      "count": 45
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "string",
+      "count": 625
+    },
+    {
+      "tag1": "xml",
+      "tag2": "string",
+      "count": 282
+    },
+    {
+      "tag1": "windows",
+      "tag2": "string",
+      "count": 102
+    },
+    {
+      "tag1": "database",
+      "tag2": "string",
+      "count": 116
+    },
+    {
+      "tag1": "regex",
+      "tag2": "string",
+      "count": 2263
+    },
+    {
+      "tag1": "django",
+      "tag2": "string",
+      "count": 48
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "string",
+      "count": 61
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "string",
+      "count": 94
+    },
+    {
+      "tag1": "performance",
+      "tag2": "string",
+      "count": 456
+    },
+    {
+      "tag1": "linq",
+      "tag2": "string",
+      "count": 162
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "string",
+      "count": 73
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "string",
+      "count": 12
+    },
+    {
+      "tag1": "flash",
+      "tag2": "string",
+      "count": 67
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "string",
+      "count": 192
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "string",
+      "count": 58
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "string",
+      "count": 136
+    },
+    {
+      "tag1": "perl",
+      "tag2": "string",
+      "count": 304
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "string",
+      "count": 591
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "string",
+      "count": 13
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "string",
+      "count": 74
+    },
+    {
+      "tag1": "c#",
+      "tag2": "arrays",
+      "count": 2147
+    },
+    {
+      "tag1": "java",
+      "tag2": "arrays",
+      "count": 1958
+    },
+    {
+      "tag1": "php",
+      "tag2": "arrays",
+      "count": 5697
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "arrays",
+      "count": 1851
+    },
+    {
+      "tag1": ".net",
+      "tag2": "arrays",
+      "count": 721
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "arrays",
+      "count": 121
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "arrays",
+      "count": 966
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "arrays",
+      "count": 443
+    },
+    {
+      "tag1": "c++",
+      "tag2": "arrays",
+      "count": 1800
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "arrays",
+      "count": 638
+    },
+    {
+      "tag1": "html",
+      "tag2": "arrays",
+      "count": 158
+    },
+    {
+      "tag1": "android",
+      "tag2": "arrays",
+      "count": 195
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "arrays",
+      "count": 326
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "arrays",
+      "count": 611
+    },
+    {
+      "tag1": "c",
+      "tag2": "arrays",
+      "count": 1632
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "arrays",
+      "count": 16
+    },
+    {
+      "tag1": "css",
+      "tag2": "arrays",
+      "count": 25
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "arrays",
+      "count": 31
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "arrays",
+      "count": 71
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "arrays",
+      "count": 786
+    },
+    {
+      "tag1": "xml",
+      "tag2": "arrays",
+      "count": 256
+    },
+    {
+      "tag1": "windows",
+      "tag2": "arrays",
+      "count": 9
+    },
+    {
+      "tag1": "database",
+      "tag2": "arrays",
+      "count": 110
+    },
+    {
+      "tag1": "regex",
+      "tag2": "arrays",
+      "count": 192
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "arrays",
+      "count": 349
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "arrays",
+      "count": 197
+    },
+    {
+      "tag1": "django",
+      "tag2": "arrays",
+      "count": 5
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "arrays",
+      "count": 32
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "arrays",
+      "count": 41
+    },
+    {
+      "tag1": "linux",
+      "tag2": "arrays",
+      "count": 17
+    },
+    {
+      "tag1": "performance",
+      "tag2": "arrays",
+      "count": 400
+    },
+    {
+      "tag1": "multithreading",
+      "tag2": "arrays",
+      "count": 42
+    },
+    {
+      "tag1": "string",
+      "tag2": "arrays",
+      "count": 1195
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "arrays",
+      "count": 10
+    },
+    {
+      "tag1": "linq",
+      "tag2": "arrays",
+      "count": 176
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "arrays",
+      "count": 19
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "arrays",
+      "count": 17
+    },
+    {
+      "tag1": "flash",
+      "tag2": "arrays",
+      "count": 130
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "arrays",
+      "count": 114
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "arrays",
+      "count": 77
+    },
+    {
+      "tag1": "eclipse",
+      "tag2": "arrays",
+      "count": 3
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "arrays",
+      "count": 260
+    },
+    {
+      "tag1": "perl",
+      "tag2": "arrays",
+      "count": 495
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "arrays",
+      "count": 510
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "arrays",
+      "count": 23
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "arrays",
+      "count": 2
+    },
+    {
+      "tag1": "c#",
+      "tag2": "silverlight",
+      "count": 4606
+    },
+    {
+      "tag1": "java",
+      "tag2": "silverlight",
+      "count": 56
+    },
+    {
+      "tag1": "php",
+      "tag2": "silverlight",
+      "count": 38
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "silverlight",
+      "count": 327
+    },
+    {
+      "tag1": ".net",
+      "tag2": "silverlight",
+      "count": 2481
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "silverlight",
+      "count": 948
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "silverlight",
+      "count": 62
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "silverlight",
+      "count": 6
+    },
+    {
+      "tag1": "c++",
+      "tag2": "silverlight",
+      "count": 24
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "silverlight",
+      "count": 33
+    },
+    {
+      "tag1": "html",
+      "tag2": "silverlight",
+      "count": 157
+    },
+    {
+      "tag1": "android",
+      "tag2": "silverlight",
+      "count": 8
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "silverlight",
+      "count": 2
+    },
+    {
+      "tag1": "c",
+      "tag2": "silverlight",
+      "count": 3
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "silverlight",
+      "count": 57
+    },
+    {
+      "tag1": "css",
+      "tag2": "silverlight",
+      "count": 54
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "silverlight",
+      "count": 1996
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "silverlight",
+      "count": 213
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "silverlight",
+      "count": 5
+    },
+    {
+      "tag1": "xml",
+      "tag2": "silverlight",
+      "count": 176
+    },
+    {
+      "tag1": "windows",
+      "tag2": "silverlight",
+      "count": 50
+    },
+    {
+      "tag1": "database",
+      "tag2": "silverlight",
+      "count": 47
+    },
+    {
+      "tag1": "regex",
+      "tag2": "silverlight",
+      "count": 10
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "silverlight",
+      "count": 173
+    },
+    {
+      "tag1": "django",
+      "tag2": "silverlight",
+      "count": 2
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "silverlight",
+      "count": 279
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "silverlight",
+      "count": 84
+    },
+    {
+      "tag1": "linux",
+      "tag2": "silverlight",
+      "count": 12
+    },
+    {
+      "tag1": "performance",
+      "tag2": "silverlight",
+      "count": 99
+    },
+    {
+      "tag1": "string",
+      "tag2": "silverlight",
+      "count": 8
+    },
+    {
+      "tag1": "linq",
+      "tag2": "silverlight",
+      "count": 172
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "silverlight",
+      "count": 301
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "silverlight",
+      "count": 1416
+    },
+    {
+      "tag1": "flash",
+      "tag2": "silverlight",
+      "count": 298
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "silverlight",
+      "count": 2
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "silverlight",
+      "count": 4
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "silverlight",
+      "count": 14
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "silverlight",
+      "count": 13
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "silverlight",
+      "count": 416
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "silverlight",
+      "count": 9
+    },
+    {
+      "tag1": "java",
+      "tag2": "linq",
+      "count": 31
+    },
+    {
+      "tag1": ".net",
+      "tag2": "linq",
+      "count": 4593
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "linq",
+      "count": 78
+    },
+    {
+      "tag1": "xml",
+      "tag2": "linq",
+      "count": 1202
+    },
+    {
+      "tag1": "performance",
+      "tag2": "linq",
+      "count": 324
+    },
+    {
+      "tag1": "c#",
+      "tag2": "visual-studio-2008",
+      "count": 5284
+    },
+    {
+      "tag1": "java",
+      "tag2": "visual-studio-2008",
+      "count": 16
+    },
+    {
+      "tag1": "php",
+      "tag2": "visual-studio-2008",
+      "count": 20
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "visual-studio-2008",
+      "count": 288
+    },
+    {
+      "tag1": ".net",
+      "tag2": "visual-studio-2008",
+      "count": 2929
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "visual-studio-2008",
+      "count": 2283
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "visual-studio-2008",
+      "count": 111
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "visual-studio-2008",
+      "count": 5
+    },
+    {
+      "tag1": "c++",
+      "tag2": "visual-studio-2008",
+      "count": 2070
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "visual-studio-2008",
+      "count": 64
+    },
+    {
+      "tag1": "html",
+      "tag2": "visual-studio-2008",
+      "count": 109
+    },
+    {
+      "tag1": "android",
+      "tag2": "visual-studio-2008",
+      "count": 5
+    },
+    {
+      "tag1": "c",
+      "tag2": "visual-studio-2008",
+      "count": 402
+    },
+    {
+      "tag1": "css",
+      "tag2": "visual-studio-2008",
+      "count": 119
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "visual-studio-2008",
+      "count": 439
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "visual-studio-2008",
+      "count": 445
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "visual-studio-2008",
+      "count": 3
+    },
+    {
+      "tag1": "xml",
+      "tag2": "visual-studio-2008",
+      "count": 143
+    },
+    {
+      "tag1": "windows",
+      "tag2": "visual-studio-2008",
+      "count": 359
+    },
+    {
+      "tag1": "database",
+      "tag2": "visual-studio-2008",
+      "count": 163
+    },
+    {
+      "tag1": "regex",
+      "tag2": "visual-studio-2008",
+      "count": 70
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "visual-studio-2008",
+      "count": 4442
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "visual-studio-2008",
+      "count": 695
+    },
+    {
+      "tag1": "performance",
+      "tag2": "visual-studio-2008",
+      "count": 124
+    },
+    {
+      "tag1": "linq",
+      "tag2": "visual-studio-2008",
+      "count": 208
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "visual-studio-2008",
+      "count": 258
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "visual-studio-2008",
+      "count": 12
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "visual-studio-2008",
+      "count": 210
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "visual-studio-2008",
+      "count": 216
+    },
+    {
+      "tag1": "c#",
+      "tag2": "flex",
+      "count": 141
+    },
+    {
+      "tag1": "java",
+      "tag2": "flex",
+      "count": 509
+    },
+    {
+      "tag1": "php",
+      "tag2": "flex",
+      "count": 426
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "flex",
+      "count": 396
+    },
+    {
+      "tag1": ".net",
+      "tag2": "flex",
+      "count": 144
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "flex",
+      "count": 134
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "flex",
+      "count": 65
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "flex",
+      "count": 24
+    },
+    {
+      "tag1": "c++",
+      "tag2": "flex",
+      "count": 26
+    },
+    {
+      "tag1": "python",
+      "tag2": "flex",
+      "count": 68
+    },
+    {
+      "tag1": "sql",
+      "tag2": "flex",
+      "count": 19
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "flex",
+      "count": 92
+    },
+    {
+      "tag1": "html",
+      "tag2": "flex",
+      "count": 246
+    },
+    {
+      "tag1": "android",
+      "tag2": "flex",
+      "count": 22
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "flex",
+      "count": 147
+    },
+    {
+      "tag1": "c",
+      "tag2": "flex",
+      "count": 11
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "flex",
+      "count": 6
+    },
+    {
+      "tag1": "css",
+      "tag2": "flex",
+      "count": 186
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "flex",
+      "count": 19
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "flex",
+      "count": 15
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "flex",
+      "count": 47
+    },
+    {
+      "tag1": "xml",
+      "tag2": "flex",
+      "count": 526
+    },
+    {
+      "tag1": "windows",
+      "tag2": "flex",
+      "count": 47
+    },
+    {
+      "tag1": "database",
+      "tag2": "flex",
+      "count": 50
+    },
+    {
+      "tag1": "regex",
+      "tag2": "flex",
+      "count": 81
+    },
+    {
+      "tag1": "vb.net",
+      "tag2": "flex",
+      "count": 10
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "flex",
+      "count": 62
+    },
+    {
+      "tag1": "django",
+      "tag2": "flex",
+      "count": 63
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "flex",
+      "count": 11
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "flex",
+      "count": 6
+    },
+    {
+      "tag1": "linux",
+      "tag2": "flex",
+      "count": 35
+    },
+    {
+      "tag1": "performance",
+      "tag2": "flex",
+      "count": 104
+    },
+    {
+      "tag1": "multithreading",
+      "tag2": "flex",
+      "count": 24
+    },
+    {
+      "tag1": "string",
+      "tag2": "flex",
+      "count": 54
+    },
+    {
+      "tag1": "arrays",
+      "tag2": "flex",
+      "count": 100
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "flex",
+      "count": 91
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "flex",
+      "count": 2
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "flex",
+      "count": 28
+    },
+    {
+      "tag1": "flash",
+      "tag2": "flex",
+      "count": 3945
+    },
+    {
+      "tag1": "eclipse",
+      "tag2": "flex",
+      "count": 114
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "flex",
+      "count": 6345
+    },
+    {
+      "tag1": "perl",
+      "tag2": "flex",
+      "count": 11
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "flex",
+      "count": 14
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "flex",
+      "count": 247
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "flex",
+      "count": 3
+    },
+    {
+      "tag1": "java",
+      "tag2": "wcf",
+      "count": 241
+    },
+    {
+      "tag1": ".net",
+      "tag2": "wcf",
+      "count": 4916
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "wcf",
+      "count": 13
+    },
+    {
+      "tag1": "xml",
+      "tag2": "wcf",
+      "count": 379
+    },
+    {
+      "tag1": "performance",
+      "tag2": "wcf",
+      "count": 258
+    },
+    {
+      "tag1": "linq",
+      "tag2": "wcf",
+      "count": 154
+    },
+    {
+      "tag1": "java",
+      "tag2": "flash",
+      "count": 435
+    },
+    {
+      "tag1": "php",
+      "tag2": "flash",
+      "count": 930
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "flash",
+      "count": 2081
+    },
+    {
+      "tag1": ".net",
+      "tag2": "flash",
+      "count": 203
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "flash",
+      "count": 129
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "flash",
+      "count": 111
+    },
+    {
+      "tag1": "html",
+      "tag2": "flash",
+      "count": 1135
+    },
+    {
+      "tag1": "c",
+      "tag2": "flash",
+      "count": 28
+    },
+    {
+      "tag1": "css",
+      "tag2": "flash",
+      "count": 443
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "flash",
+      "count": 30
+    },
+    {
+      "tag1": "xml",
+      "tag2": "flash",
+      "count": 620
+    },
+    {
+      "tag1": "database",
+      "tag2": "flash",
+      "count": 33
+    },
+    {
+      "tag1": "performance",
+      "tag2": "flash",
+      "count": 109
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "flash",
+      "count": 28
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "flash",
+      "count": 8
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "flash",
+      "count": 4
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "flash",
+      "count": 7646
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "flash",
+      "count": 12
+    },
+    {
+      "tag1": "java",
+      "tag2": "cocoa",
+      "count": 85
+    },
+    {
+      "tag1": ".net",
+      "tag2": "cocoa",
+      "count": 27
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "cocoa",
+      "count": 16
+    },
+    {
+      "tag1": "css",
+      "tag2": "cocoa",
+      "count": 9
+    },
+    {
+      "tag1": "xml",
+      "tag2": "cocoa",
+      "count": 151
+    },
+    {
+      "tag1": "database",
+      "tag2": "cocoa",
+      "count": 35
+    },
+    {
+      "tag1": "performance",
+      "tag2": "cocoa",
+      "count": 66
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "cocoa",
+      "count": 2805
+    },
+    {
+      "tag1": "java",
+      "tag2": "cocoa-touch",
+      "count": 13
+    },
+    {
+      "tag1": ".net",
+      "tag2": "cocoa-touch",
+      "count": 10
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "cocoa-touch",
+      "count": 23
+    },
+    {
+      "tag1": "xml",
+      "tag2": "cocoa-touch",
+      "count": 110
+    },
+    {
+      "tag1": "performance",
+      "tag2": "cocoa-touch",
+      "count": 51
+    },
+    {
+      "tag1": "linq",
+      "tag2": "cocoa-touch",
+      "count": 3
+    },
+    {
+      "tag1": "c#",
+      "tag2": "eclipse",
+      "count": 47
+    },
+    {
+      "tag1": "java",
+      "tag2": "eclipse",
+      "count": 6224
+    },
+    {
+      "tag1": "php",
+      "tag2": "eclipse",
+      "count": 441
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "eclipse",
+      "count": 181
+    },
+    {
+      "tag1": ".net",
+      "tag2": "eclipse",
+      "count": 46
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "eclipse",
+      "count": 3
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "eclipse",
+      "count": 33
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "eclipse",
+      "count": 10
+    },
+    {
+      "tag1": "c++",
+      "tag2": "eclipse",
+      "count": 480
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "eclipse",
+      "count": 81
+    },
+    {
+      "tag1": "html",
+      "tag2": "eclipse",
+      "count": 72
+    },
+    {
+      "tag1": "android",
+      "tag2": "eclipse",
+      "count": 1668
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "eclipse",
+      "count": 18
+    },
+    {
+      "tag1": "objective-c",
+      "tag2": "eclipse",
+      "count": 16
+    },
+    {
+      "tag1": "c",
+      "tag2": "eclipse",
+      "count": 222
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "eclipse",
+      "count": 9
+    },
+    {
+      "tag1": "css",
+      "tag2": "eclipse",
+      "count": 21
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "eclipse",
+      "count": 2
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "eclipse",
+      "count": 29
+    },
+    {
+      "tag1": "xml",
+      "tag2": "eclipse",
+      "count": 194
+    },
+    {
+      "tag1": "windows",
+      "tag2": "eclipse",
+      "count": 202
+    },
+    {
+      "tag1": "database",
+      "tag2": "eclipse",
+      "count": 70
+    },
+    {
+      "tag1": "regex",
+      "tag2": "eclipse",
+      "count": 77
+    },
+    {
+      "tag1": "ajax",
+      "tag2": "eclipse",
+      "count": 14
+    },
+    {
+      "tag1": "django",
+      "tag2": "eclipse",
+      "count": 79
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "eclipse",
+      "count": 181
+    },
+    {
+      "tag1": "linux",
+      "tag2": "eclipse",
+      "count": 253
+    },
+    {
+      "tag1": "performance",
+      "tag2": "eclipse",
+      "count": 77
+    },
+    {
+      "tag1": "multithreading",
+      "tag2": "eclipse",
+      "count": 36
+    },
+    {
+      "tag1": "string",
+      "tag2": "eclipse",
+      "count": 16
+    },
+    {
+      "tag1": "silverlight",
+      "tag2": "eclipse",
+      "count": 3
+    },
+    {
+      "tag1": "visual-studio-2008",
+      "tag2": "eclipse",
+      "count": 56
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "eclipse",
+      "count": 7
+    },
+    {
+      "tag1": "flash",
+      "tag2": "eclipse",
+      "count": 20
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "eclipse",
+      "count": 5
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "eclipse",
+      "count": 27
+    },
+    {
+      "tag1": "perl",
+      "tag2": "eclipse",
+      "count": 59
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "eclipse",
+      "count": 4
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "eclipse",
+      "count": 99
+    },
+    {
+      "tag1": "sql-server-2005",
+      "tag2": "eclipse",
+      "count": 3
+    },
+    {
+      "tag1": "java",
+      "tag2": "actionscript-3",
+      "count": 160
+    },
+    {
+      "tag1": "php",
+      "tag2": "actionscript-3",
+      "count": 373
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "actionscript-3",
+      "count": 517
+    },
+    {
+      "tag1": ".net",
+      "tag2": "actionscript-3",
+      "count": 58
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "actionscript-3",
+      "count": 31
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "actionscript-3",
+      "count": 48
+    },
+    {
+      "tag1": "html",
+      "tag2": "actionscript-3",
+      "count": 176
+    },
+    {
+      "tag1": "c",
+      "tag2": "actionscript-3",
+      "count": 26
+    },
+    {
+      "tag1": "css",
+      "tag2": "actionscript-3",
+      "count": 69
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "actionscript-3",
+      "count": 4
+    },
+    {
+      "tag1": "xml",
+      "tag2": "actionscript-3",
+      "count": 718
+    },
+    {
+      "tag1": "database",
+      "tag2": "actionscript-3",
+      "count": 17
+    },
+    {
+      "tag1": "performance",
+      "tag2": "actionscript-3",
+      "count": 96
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "actionscript-3",
+      "count": 15
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "actionscript-3",
+      "count": 36
+    },
+    {
+      "tag1": "c#",
+      "tag2": "perl",
+      "count": 163
+    },
+    {
+      "tag1": "java",
+      "tag2": "perl",
+      "count": 300
+    },
+    {
+      "tag1": "php",
+      "tag2": "perl",
+      "count": 508
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "perl",
+      "count": 135
+    },
+    {
+      "tag1": ".net",
+      "tag2": "perl",
+      "count": 66
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "perl",
+      "count": 13
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "perl",
+      "count": 53
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "perl",
+      "count": 7
+    },
+    {
+      "tag1": "c++",
+      "tag2": "perl",
+      "count": 187
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "perl",
+      "count": 279
+    },
+    {
+      "tag1": "html",
+      "tag2": "perl",
+      "count": 356
+    },
+    {
+      "tag1": "c",
+      "tag2": "perl",
+      "count": 162
+    },
+    {
+      "tag1": "css",
+      "tag2": "perl",
+      "count": 38
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "perl",
+      "count": 221
+    },
+    {
+      "tag1": "xml",
+      "tag2": "perl",
+      "count": 399
+    },
+    {
+      "tag1": "database",
+      "tag2": "perl",
+      "count": 105
+    },
+    {
+      "tag1": "regex",
+      "tag2": "perl",
+      "count": 1518
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "perl",
+      "count": 5
+    },
+    {
+      "tag1": "performance",
+      "tag2": "perl",
+      "count": 200
+    },
+    {
+      "tag1": "flash",
+      "tag2": "perl",
+      "count": 8
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "perl",
+      "count": 11
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "perl",
+      "count": 79
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "perl",
+      "count": 33
+    },
+    {
+      "tag1": "java",
+      "tag2": "algorithm",
+      "count": 1394
+    },
+    {
+      "tag1": "php",
+      "tag2": "algorithm",
+      "count": 547
+    },
+    {
+      "tag1": ".net",
+      "tag2": "algorithm",
+      "count": 498
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "algorithm",
+      "count": 192
+    },
+    {
+      "tag1": "c",
+      "tag2": "algorithm",
+      "count": 1076
+    },
+    {
+      "tag1": "css",
+      "tag2": "algorithm",
+      "count": 16
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "algorithm",
+      "count": 122
+    },
+    {
+      "tag1": "xml",
+      "tag2": "algorithm",
+      "count": 33
+    },
+    {
+      "tag1": "database",
+      "tag2": "algorithm",
+      "count": 203
+    },
+    {
+      "tag1": "performance",
+      "tag2": "algorithm",
+      "count": 674
+    },
+    {
+      "tag1": "linq",
+      "tag2": "algorithm",
+      "count": 87
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "algorithm",
+      "count": 14
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "algorithm",
+      "count": 30
+    },
+    {
+      "tag1": "c#",
+      "tag2": "web-services",
+      "count": 4678
+    },
+    {
+      "tag1": "java",
+      "tag2": "web-services",
+      "count": 2629
+    },
+    {
+      "tag1": "php",
+      "tag2": "web-services",
+      "count": 851
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "web-services",
+      "count": 495
+    },
+    {
+      "tag1": ".net",
+      "tag2": "web-services",
+      "count": 3338
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "web-services",
+      "count": 722
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "web-services",
+      "count": 520
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "web-services",
+      "count": 89
+    },
+    {
+      "tag1": "html",
+      "tag2": "web-services",
+      "count": 65
+    },
+    {
+      "tag1": "android",
+      "tag2": "web-services",
+      "count": 294
+    },
+    {
+      "tag1": "c",
+      "tag2": "web-services",
+      "count": 39
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "web-services",
+      "count": 94
+    },
+    {
+      "tag1": "xml",
+      "tag2": "web-services",
+      "count": 861
+    },
+    {
+      "tag1": "database",
+      "tag2": "web-services",
+      "count": 151
+    },
+    {
+      "tag1": "regex",
+      "tag2": "web-services",
+      "count": 7
+    },
+    {
+      "tag1": "performance",
+      "tag2": "web-services",
+      "count": 136
+    },
+    {
+      "tag1": "linq",
+      "tag2": "web-services",
+      "count": 36
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "web-services",
+      "count": 2325
+    },
+    {
+      "tag1": "flash",
+      "tag2": "web-services",
+      "count": 63
+    },
+    {
+      "tag1": "cocoa",
+      "tag2": "web-services",
+      "count": 26
+    },
+    {
+      "tag1": "cocoa-touch",
+      "tag2": "web-services",
+      "count": 52
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "web-services",
+      "count": 87
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "web-services",
+      "count": 6
+    },
+    {
+      "tag1": "c#",
+      "tag2": "sql-server-2005",
+      "count": 1430
+    },
+    {
+      "tag1": "java",
+      "tag2": "sql-server-2005",
+      "count": 65
+    },
+    {
+      "tag1": "php",
+      "tag2": "sql-server-2005",
+      "count": 52
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "sql-server-2005",
+      "count": 19
+    },
+    {
+      "tag1": ".net",
+      "tag2": "sql-server-2005",
+      "count": 653
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "sql-server-2005",
+      "count": 765
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "sql-server-2005",
+      "count": 18
+    },
+    {
+      "tag1": "c++",
+      "tag2": "sql-server-2005",
+      "count": 19
+    },
+    {
+      "tag1": "mysql",
+      "tag2": "sql-server-2005",
+      "count": 147
+    },
+    {
+      "tag1": "html",
+      "tag2": "sql-server-2005",
+      "count": 17
+    },
+    {
+      "tag1": "ruby-on-rails",
+      "tag2": "sql-server-2005",
+      "count": 17
+    },
+    {
+      "tag1": "wpf",
+      "tag2": "sql-server-2005",
+      "count": 7
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "sql-server-2005",
+      "count": 10
+    },
+    {
+      "tag1": "xml",
+      "tag2": "sql-server-2005",
+      "count": 435
+    },
+    {
+      "tag1": "database",
+      "tag2": "sql-server-2005",
+      "count": 727
+    },
+    {
+      "tag1": "regex",
+      "tag2": "sql-server-2005",
+      "count": 49
+    },
+    {
+      "tag1": "visual-studio",
+      "tag2": "sql-server-2005",
+      "count": 132
+    },
+    {
+      "tag1": "winforms",
+      "tag2": "sql-server-2005",
+      "count": 68
+    },
+    {
+      "tag1": "performance",
+      "tag2": "sql-server-2005",
+      "count": 512
+    },
+    {
+      "tag1": "linq",
+      "tag2": "sql-server-2005",
+      "count": 107
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "sql-server-2005",
+      "count": 16
+    },
+    {
+      "tag1": "actionscript-3",
+      "tag2": "sql-server-2005",
+      "count": 3
+    },
+    {
+      "tag1": "perl",
+      "tag2": "sql-server-2005",
+      "count": 13
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "sql-server-2005",
+      "count": 10
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "sql-server-2005",
+      "count": 49
+    }
+  ],
+  "highLowCor": [
+    {
+      "tag1": "html",
+      "tag2": "offline-web-app",
+      "count": 2
+    },
+    {
+      "tag1": "python",
+      "tag2": "lettuce",
+      "count": 3
+    },
+    {
+      "tag1": "html",
+      "tag2": "lettuce",
+      "count": 3
+    },
+    {
+      "tag1": "django",
+      "tag2": "django-custom-manager",
+      "count": 2
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "internet-explorer-5",
+      "count": 2
+    },
+    {
+      "tag1": "java",
+      "tag2": "jflex-maven-plugin",
+      "count": 2
+    },
+    {
+      "tag1": "sql",
+      "tag2": "showplan.out",
+      "count": 2
+    },
+    {
+      "tag1": "php",
+      "tag2": "dnsbl",
+      "count": 2
+    },
+    {
+      "tag1": "java",
+      "tag2": "yandex-api",
+      "count": 3
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "yandex-api",
+      "count": 3
+    },
+    {
+      "tag1": "wcf",
+      "tag2": "durable-services",
+      "count": 3
+    },
+    {
+      "tag1": "web-services",
+      "tag2": "durable-services",
+      "count": 3
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "uidatepickermodetime",
+      "count": 2
+    },
+    {
+      "tag1": "java",
+      "tag2": "audiotrack",
+      "count": 3
+    },
+    {
+      "tag1": "android",
+      "tag2": "audiotrack",
+      "count": 3
+    },
+    {
+      "tag1": "c#",
+      "tag2": "object-initializer",
+      "count": 3
+    },
+    {
+      "tag1": ".net",
+      "tag2": "object-initializer",
+      "count": 3
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "twitter-streaming-api",
+      "count": 2
+    },
+    {
+      "tag1": "c++",
+      "tag2": "netapp",
+      "count": 2
+    },
+    {
+      "tag1": "java",
+      "tag2": "smartfoxserver",
+      "count": 2
+    },
+    {
+      "tag1": "c++",
+      "tag2": "safe-bool-idiom",
+      "count": 2
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "lis",
+      "count": 2
+    },
+    {
+      "tag1": "ruby",
+      "tag2": "feature-envy",
+      "count": 2
+    },
+    {
+      "tag1": "algorithm",
+      "tag2": "mfcc",
+      "count": 2
+    },
+    {
+      "tag1": "c",
+      "tag2": "data-segment",
+      "count": 2
+    },
+    {
+      "tag1": "c#",
+      "tag2": "aec",
+      "count": 4
+    },
+    {
+      "tag1": "c++",
+      "tag2": "aec",
+      "count": 4
+    },
+    {
+      "tag1": "c",
+      "tag2": "aec",
+      "count": 4
+    },
+    {
+      "tag1": "android",
+      "tag2": "boot-animation",
+      "count": 3
+    },
+    {
+      "tag1": "eclipse",
+      "tag2": "boot-animation",
+      "count": 3
+    },
+    {
+      "tag1": "performance",
+      "tag2": "pylot",
+      "count": 2
+    },
+    {
+      "tag1": "asp.net-mvc",
+      "tag2": "editmodel",
+      "count": 2
+    },
+    {
+      "tag1": "sql-server",
+      "tag2": "sql-cte",
+      "count": 2
+    },
+    {
+      "tag1": "windows",
+      "tag2": "ocaml-toplevel",
+      "count": 2
+    },
+    {
+      "tag1": "python",
+      "tag2": "avro",
+      "count": 2
+    },
+    {
+      "tag1": "c++",
+      "tag2": "boost-ptr-container",
+      "count": 2
+    }
+  ]
+}

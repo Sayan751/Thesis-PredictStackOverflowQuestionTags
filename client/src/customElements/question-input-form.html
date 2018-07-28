@@ -1,0 +1,76 @@
+<template>
+  <div class="row">
+    <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11">
+
+      <!--<ul repeat.for="err of validationResults">
+        <li if.bind="err.message" class="text-danger">${err.message}</li>
+      </ul>-->
+
+      <h4>Input Stack Overflow Question Id &hellip;</h4>
+      <form role="form" submit.delegate="fetchQuestion()">
+        <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12" validation-errors.bind="soQuestionIdErrors">
+          <div class="input-group">
+            <input type="number" class="form-control" placeholder="Stack Overflow Question Id" value.bind="soQuestionId & validate" aria-describedby="so-question-id">
+            <span class="input-group-btn" id="so-question-id">
+              <button class="btn btn-default" type="submit">Fetch</button>          
+            </span>
+          </div>
+          <span class="text-danger" repeat.for="errorInfo of soQuestionIdErrors">
+            ${errorInfo.error.message}
+          </span>
+        </div>
+      </form>
+
+      <hr width="95%" class="hr-text" data-content="OR" />
+
+      <h4>&hellip; Input question's text</h4>
+      <form role="form" submit.delegate="createQuestion()">
+
+        <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12" validation-errors.bind="questionTitleErrors">
+          <label for="questionTitle">Title</label>
+          <span class="text-danger" repeat.for="errorInfo of questionTitleErrors">
+            ${errorInfo.error.message}
+          </span>
+          <input type="text" class="form-control" id="questionTitle" placeholder="Title" value.bind="title & validate">
+
+        </div>
+
+        <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12" validation-errors.bind="questionBodyErrors">
+          <label for="questionBody">Body</label>
+          <span class="text-danger" repeat.for="errorInfo of questionBodyErrors">
+            ${errorInfo.error.message}
+          </span>
+          <textarea class="form-control" id="questionBody" placeholder="Body" value.bind="body & validate"></textarea>
+        </div>
+
+        <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12" validation-errors.bind="tagsErrors">
+          <label>Tags</label>
+          <span class="text-danger" repeat.for="errorInfo of tagsErrors">
+            ${errorInfo.error.message}
+          </span>
+          <br>
+
+          <div class="input-group col-xs-3 col-sm-3 col-md-3 col-lg-3" repeat.for="tag of tags & validate">
+            <input type="text" value.bind="tag" class="form-control"></input>
+            <span class="input-group-btn" id="so-question-id">
+              <button class="btn btn-default" type="button" click.delegate="deleteTag($index)"><i class="fa fa-minus"></i></button>          
+            </span>
+          </div>
+
+          <div class="input-group col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <input type="text" value.bind="newTag" class="form-control"></input>
+            <span class="input-group-btn" id="so-question-id">
+              <button class="btn btn-default" type="button" click.delegate="addTag()"><i class="fa fa-plus"></i></button>          
+            </span>
+          </div>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <button type="submit" class="btn btn-default">Done</button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</template>

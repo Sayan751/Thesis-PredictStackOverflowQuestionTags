@@ -1,0 +1,8 @@
+<template bindable="config">
+    <li if.bind="config.epochs"><strong>Epochs:</strong> ${config.epochs}</li>
+    <li if.bind="config.hd"><strong>Hashed dimension:</strong> ${config.hd}</li>
+    <li if.bind="config.k"><strong>Branching factor:</strong> ${config.k}</li>
+    <li if.bind="config.alpha"><strong>Alpha:</strong> ${config.alpha}</li>
+    <li if.bind="config.toPreferHighestProbLeaf==true">Leaf with highest posterior is preferred to adapt</li>
+    <li if.bind="config.toPreferHighestProbLeaf==false">Leaf with lowest posterior is preferred to adapt</li>
+</template>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+	version="2.0">
+
+<!-- Note: Use (uncommnet) either one of the persistence unit configuration at time, based on the need.
+		   The core config works only for this project, and the webapi config works only for the webapi project. -->
+		   
+	<!-- PU config for core -->
+	<!-- <persistence-unit name="thesis" transaction-type="RESOURCE_LOCAL">
+
+		<class>thesis.data.entities.Tag</class>
+		<class>thesis.data.entities.Term</class>
+		<class>thesis.data.entities.Question</class>
+		<class>thesis.data.entities.QuestionLearnerDetails</class>
+		<class>thesis.data.entities.QuestionTermFrequency</class>
+		<class>thesis.data.entities.Learner</class>
+
+		<properties>
+			<property name="javax.persistence.jdbc.driver"
+				value="com.microsoft.sqlserver.jdbc.SQLServerDriver"></property>
+
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:sqlserver://localhost;databaseName=Thesis"></property>
+
+			<property name="javax.persistence.jdbc.user" value="sa"></property>
+
+			<property name="javax.persistence.jdbc.password" value="1234"></property>
+
+			<property name="hibernate.default_schema" value="dbo"></property>
+
+			<property name="hibernate.dialect" value="org.hibernate.dialect.SQLServer2008Dialect"></property>
+
+			<property name="hibernate.hbm2ddl.auto" value="update"></property>
+
+			<property name="hibernate.show_sql" value="false" />
+
+			<property name="jboss.as.jpa.providerModule" value="org.hibernate:5.2.4.Final" />
+		</properties>
+	</persistence-unit>   -->
+	
+	<!-- 1234 localhost -->
+    <!-- Xstre@ms extremestreams.cs.upb.de -->
+	
+	<!-- PU config for webapi -->
+	<persistence-unit name="thesis" transaction-type="RESOURCE_LOCAL">
+
+		<jta-data-source>java:jboss/datasources/ThesisDS</jta-data-source>
+
+		<class>thesis.data.entities.Tag</class>
+		<class>thesis.data.entities.Term</class>
+		<class>thesis.data.entities.Question</class>
+		<class>thesis.data.entities.QuestionLearnerDetails</class>
+		<class>thesis.data.entities.QuestionTermFrequency</class>
+		<class>thesis.data.entities.Learner</class>
+
+		<properties>
+
+			<property name="hibernate.dialect" value="org.hibernate.dialect.SQLServer2008Dialect"></property>
+
+			<property name="hibernate.hbm2ddl.auto" value="update"></property>
+
+		</properties>
+	</persistence-unit>
+</persistence>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources>
+	<!-- <local-tx-datasource>
+		<jndi-name>ThesisDS</jndi-name>
+		<connection-url>
+			jdbc:sqlserver://localhost;databaseName=Thesis
+		</connection-url>
+		<driver-class>
+			com.microsoft.sqlserver.jdbc.SQLServerDriver
+		</driver-class>
+		<user-name>sa</user-name>
+		<password>1234</password>
+		<check-valid-connection-sql>SELECT 1 FROM sysobjects
+		</check-valid-connection-sql>
+		<metadata>
+			<type-mapping>MS SQLSERVER2016</type-mapping>
+		</metadata>
+	</local-tx-datasource> -->
+
+	<datasource jndi-name="java:jboss/datasources/ThesisDS"
+		pool-name="ThesisDS" enabled="true" use-java-context="true">
+		<connection-url>jdbc:sqlserver://localhost;databaseName=Thesis
+		</connection-url>
+		<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+		<security>
+			<user-name>sa</user-name>
+			<password>1234</password>
+		</security>
+	</datasource>
+</datasources> 		

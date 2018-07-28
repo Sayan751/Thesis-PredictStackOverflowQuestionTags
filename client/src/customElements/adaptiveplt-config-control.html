@@ -1,0 +1,42 @@
+<template>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Epochs</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.epochs" class="form-control" placeholder="Number of epochs" min="1">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Hashed dimension</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.hd" class="form-control" placeholder="Hashed dimension" min="1">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Branching factor</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.k" class="form-control" placeholder="Branching factor" min="2">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Alpha</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.alpha" class="form-control" placeholder="Adaptation trade-off parameter alpha" min="0"
+        max="1" step="0.01">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Adaptation preference</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <div class="checkbox">
+        <label class="radio-inline">
+          <input type="checkbox" checked.bind="config.toPreferHighestProbLeaf"> Prefer leaf with highest posterior
+        </label>
+      </div>
+    </div>
+  </div>
+</template>

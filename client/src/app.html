@@ -1,0 +1,15 @@
+<template>
+  <require from="./nav-bar.html"></require>
+
+  <nav-bar router.bind="router"></nav-bar>
+
+  <div class="page-host container-fluid">
+    <br/>
+    <router-view></router-view>
+  </div>
+  <!--<div class="overlay" if.bind="true">
+    <div class="overlay-content">
+      <i class="fa fa-spinner fa-spin"></i>
+    </div>
+  </div>-->
+</template>

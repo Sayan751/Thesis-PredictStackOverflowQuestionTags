@@ -1,0 +1,16 @@
+<template bindable="config">
+
+  <require from="./adaptiveplt-config-display.html"></require>
+
+  <li if.bind="config.epsilon"><strong>Epsilon:</strong> ${config.epsilon}</li>
+  <li if.bind="config.minTraingInstances"><strong>Minimum training instances:</strong> ${config.minTraingInstances}</li>
+  <li if.bind="config.retainmentFraction"><strong>Retainment fraction:</strong> ${config.retainmentFraction}</li>
+  <li if.bind="config.ageFunction"><strong>Age function:</strong> ${config.ageFunction|af}</li>
+  <li if.bind="config.a && config.c"><strong>a, c:</strong> ${config.a}, ${config.c}</li>
+
+  <li if.bind="config.individualPLTProperties"><strong>Base learner configuration:</strong>
+    <ul>
+      <adaptiveplt-config-display config.bind="config.individualPLTProperties"></adaptiveplt-config-display>
+    </ul>
+  </li>
+</template>

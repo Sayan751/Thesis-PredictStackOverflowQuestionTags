@@ -1,0 +1,311 @@
+{
+  "highFreqLabels": [{
+      "name": "c#",
+      "count": 123603
+    },
+    {
+      "name": "java",
+      "count": 78442
+    },
+    {
+      "name": "php",
+      "count": 70245
+    },
+    {
+      "name": "javascript",
+      "count": 60924
+    },
+    {
+      "name": ".net",
+      "count": 58029
+    },
+    {
+      "name": "asp.net",
+      "count": 51815
+    },
+    {
+      "name": "jquery",
+      "count": 51523
+    },
+    {
+      "name": "iphone",
+      "count": 48810
+    },
+    {
+      "name": "c++",
+      "count": 48441
+    },
+    {
+      "name": "python",
+      "count": 40149
+    }
+  ],
+  "lowFreqLabels": [{
+      "name": "bsp-tree",
+      "count": 1
+    },
+    {
+      "name": "uri-scheme",
+      "count": 1
+    },
+    {
+      "name": "testwise-recorder",
+      "count": 1
+    },
+    {
+      "name": "burn",
+      "count": 1
+    },
+    {
+      "name": "html5-history",
+      "count": 1
+    },
+    {
+      "name": "cgimagesource",
+      "count": 1
+    },
+    {
+      "name": "inotifydataerrorinfo",
+      "count": 1
+    },
+    {
+      "name": "jabberd2",
+      "count": 1
+    },
+    {
+      "name": "uivideoeditorcontroller",
+      "count": 1
+    },
+    {
+      "name": "mysqlnd",
+      "count": 1
+    }
+  ],
+  "highHighCor": [{
+      "tag1": "java",
+      "tag2": "c#",
+      "count": 1244
+    },
+    {
+      "tag1": "php",
+      "tag2": "c#",
+      "count": 335
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "c#",
+      "count": 1341
+    },
+    {
+      "tag1": ".net",
+      "tag2": "c#",
+      "count": 27813
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "c#",
+      "count": 108
+    },
+    {
+      "tag1": ".net",
+      "tag2": "java",
+      "count": 682
+    },
+    {
+      "tag1": "java",
+      "tag2": "php",
+      "count": 554
+    },
+    {
+      "tag1": ".net",
+      "tag2": "php",
+      "count": 187
+    },
+    {
+      "tag1": "java",
+      "tag2": "javascript",
+      "count": 823
+    },
+    {
+      "tag1": "php",
+      "tag2": "javascript",
+      "count": 3680
+    },
+    {
+      "tag1": ".net",
+      "tag2": "javascript",
+      "count": 458
+    },
+    {
+      "tag1": "c#",
+      "tag2": "asp.net",
+      "count": 14725
+    },
+    {
+      "tag1": "java",
+      "tag2": "asp.net",
+      "count": 84
+    },
+    {
+      "tag1": "php",
+      "tag2": "asp.net",
+      "count": 307
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "asp.net",
+      "count": 3453
+    },
+    {
+      "tag1": ".net",
+      "tag2": "asp.net",
+      "count": 4508
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "asp.net",
+      "count": 2390
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "asp.net",
+      "count": 45
+    },
+    {
+      "tag1": "c#",
+      "tag2": "jquery",
+      "count": 715
+    },
+    {
+      "tag1": "java",
+      "tag2": "jquery",
+      "count": 146
+    },
+    {
+      "tag1": "php",
+      "tag2": "jquery",
+      "count": 2757
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "jquery",
+      "count": 18135
+    },
+    {
+      "tag1": ".net",
+      "tag2": "jquery",
+      "count": 207
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "jquery",
+      "count": 142
+    },
+    {
+      "tag1": "java",
+      "tag2": "iphone",
+      "count": 95
+    },
+    {
+      "tag1": "php",
+      "tag2": "iphone",
+      "count": 194
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "iphone",
+      "count": 452
+    },
+    {
+      "tag1": ".net",
+      "tag2": "iphone",
+      "count": 63
+    },
+    {
+      "tag1": "c#",
+      "tag2": "c++",
+      "count": 1486
+    },
+    {
+      "tag1": "java",
+      "tag2": "c++",
+      "count": 802
+    },
+    {
+      "tag1": "php",
+      "tag2": "c++",
+      "count": 143
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "c++",
+      "count": 83
+    },
+    {
+      "tag1": ".net",
+      "tag2": "c++",
+      "count": 496
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "c++",
+      "count": 21
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "c++",
+      "count": 3
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "c++",
+      "count": 181
+    },
+    {
+      "tag1": "c#",
+      "tag2": "python",
+      "count": 274
+    },
+    {
+      "tag1": "java",
+      "tag2": "python",
+      "count": 545
+    },
+    {
+      "tag1": "php",
+      "tag2": "python",
+      "count": 458
+    },
+    {
+      "tag1": "javascript",
+      "tag2": "python",
+      "count": 324
+    },
+    {
+      "tag1": ".net",
+      "tag2": "python",
+      "count": 115
+    },
+    {
+      "tag1": "asp.net",
+      "tag2": "python",
+      "count": 31
+    },
+    {
+      "tag1": "jquery",
+      "tag2": "python",
+      "count": 107
+    },
+    {
+      "tag1": "iphone",
+      "tag2": "python",
+      "count": 33
+    },
+    {
+      "tag1": "c++",
+      "tag2": "python",
+      "count": 505
+    }
+  ],
+  "highLowCor": []
+}

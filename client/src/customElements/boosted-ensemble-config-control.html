@@ -1,0 +1,45 @@
+<template>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Ensemble size</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.ensembleSize" class="form-control" placeholder="Number of base learners" min="2">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Maximum branching factor</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.maxBranchingFactor" class="form-control" placeholder="Maximum branching factor for "
+        min="2">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Minimum epochs</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.minEpochs" class="form-control" placeholder="Minimum number of epochs" min="1">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Aggregation Strategy</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <label class="radio-inline">
+        <input type="radio" name="aggrpref" value="mv" checked.bind="aggrPref"> Majority vote
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="aggrpref" value="fm" checked.bind="aggrPref"> Macro F-measure
+      </label>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="fn" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 control-label">Hashed dimension</label>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="number" value.bind="config.individualPLTConfiguration.hd" class="form-control" placeholder="Hashed dimension"
+        min="1">
+    </div>
+  </div>
+
+</template>

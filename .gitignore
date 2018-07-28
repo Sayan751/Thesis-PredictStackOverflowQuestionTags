@@ -1,0 +1,62 @@
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+!service/lib/*
+!thesis.webapi/WebContent/WEB-INF/lib/*
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
+
+node_modules/*
+
+*.log
+/service/learners
+/service/logs/old playground2 logs.7z
+/stats/*.xlsx
+/simulationResults*
+/learners
+/thesis/.settings
+/thesis.webapi/.settings
+/thesis/learners
+/client/.vscode
+/client/nodesrc/*.js
+/service/logs.7z
+/*.7z
+/learnersBkp
+/thesis/*.lck
+/deletedData
+archive/service/*
+results
+/learnerConfigurations
+/sql scripts/movementScripts
+/ECML Paper/images/*.pdf
+/client/nodesrc/learnerConfigurations
+/client/nodesrc/arffResults
+/ECML Paper/sections/*.tmp
+/ECML Paper/*.tiw
+/ECML Paper/*.tps
+/client/nodesrc/synthetic
+archive
+stats

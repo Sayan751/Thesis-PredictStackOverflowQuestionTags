@@ -1,0 +1,19 @@
+<template>
+  
+  <ux-dialog>
+    <ux-dialog-header>
+      <h3 if.bind="!message">Performance data</h3>
+      <small if.bind="message">${message}<i class="fa fa-spinner fa-spin"></i></small>
+    </ux-dialog-header>
+    <ux-dialog-body>        
+      <div>
+        <svg id="chart" class="nvd3"></svg>
+      </div>
+    </ux-dialog-body>
+
+    <ux-dialog-footer>
+      <button click.trigger="controller.ok()">Close</button>
+    </ux-dialog-footer>
+  </ux-dialog>
+  
+</template>

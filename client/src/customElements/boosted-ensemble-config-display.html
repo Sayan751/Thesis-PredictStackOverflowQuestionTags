@@ -1,0 +1,20 @@
+<template bindable="config">
+
+  <require from="./adaptiveplt-config-display.html"></require>
+  <require from="./log-lambda-wrapper.html"></require>
+
+  <li if.bind="config.ensembleSize"><strong>Ensemble size:</strong> ${config.ensembleSize}</li>
+  <li if.bind="config.maxBranchingFactor"><strong>Maximum branching factor:</strong> ${config.maxBranchingFactor}</li>
+  <li if.bind="config.minEpochs"><strong>Minimum epochs:</strong> ${config.minEpochs}</li>
+  <li if.bind="config.toAggregateByMajorityVote!==undefined || config.toAggregateByLambdaCW!==undefined">
+    <strong>Aggregation Strategy:</strong>
+    <span if.bind="config.toAggregateByMajorityVote === true">Majority vote</span>
+    <span if.bind="config.toAggregateByLambdaCW === true"><log-lambda-wrapper></log-lambda-wrapper></span>
+    <span if.bind="!config.toAggregateByMajorityVote && !config.toAggregateByLambdaCW">Macro F-measure</span>
+  </li>
+  <li if.bind="config.individualPLTConfiguration"><strong>Base learner configuration:</strong>
+    <ul>
+      <adaptiveplt-config-display config.bind="config.individualPLTConfiguration"></adaptiveplt-config-display>
+    </ul>
+  </li>
+</template>

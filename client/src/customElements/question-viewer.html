@@ -1,0 +1,27 @@
+<template bindable="question, predictions">
+  <h2 if.bind="question.seQuestionId">
+    <a href="http://stackoverflow.com/questions/${question.seQuestionId}" innerhtml.bind="question.title" target="_blank"></a>
+  </h2>
+  <h2 if.bind="!question.seQuestionId" innerhtml.bind="question.title"></h2>
+  <div innerhtml.bind="question.body">
+  </div>
+  <hr width="95%" class="grad-hr" />
+  <div class="row">
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <div class="panel panel-default">
+        <div class="panel-heading">Tags</div>
+        <div class="panel-body">
+          <div class="tag-pill" repeat.for="tag of question.tags">${tag.name}</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <div class="panel panel-default" if.bind="predictions && (!question.id || predictions.questionId == question.id)">
+        <div class="panel-heading">Predicted tags</div>
+        <div class="panel-body">
+          <div class="tag-pill" repeat.for="tag of predictions.topk">${tag.name}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>

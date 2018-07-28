@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Appenders>
+		<Console name="Console">
+			<PatternLayout pattern="(%d) %-5level [%t] [%C{1}.%M:%L] - %msg%n" />
+		</Console>
+		<File name="file" fileName="../logs/${sys:initiator} ${sys:current.date}.log"
+			append="false" bufferedIO="false" immediateFlush="true">
+			<PatternLayout pattern="(%d) %-5level [%t] [%C{1}.%M:%L] - %msg%n" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>
